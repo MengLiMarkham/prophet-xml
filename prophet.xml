@@ -6202,6 +6202,56 @@
 		<default>0</default>
 		</bus_attribute>
 	</bus>
+	<bus>
+		<bus_id>proc_socket-0/module-0/proc/pci_configs/E0_x16:E1_x8x8/E1_CLK0_x8 => CX3-1/pciep</bus_id>
+		<bus_type>PCIE</bus_type>
+		<cable>no</cable>
+		<source_path>proc_socket-0/module-0/proc/pci_configs/E0_x16:E1_x8x8/</source_path>
+		<source_target>E1_CLK0_x8</source_target>
+		<dest_path>CX3-1/</dest_path>
+		<dest_target>pciep</dest_target>
+		<bus_attribute>
+			<id>CLASS</id>
+		<default>BUS</default>
+		</bus_attribute>
+		<bus_attribute>
+			<id>LANE_REVERSAL</id>
+		<default>0</default>
+		</bus_attribute>
+		<bus_attribute>
+			<id>PCIE_LANE_EQUALIZATION</id>
+		<default>all,0x33,0x33</default>
+		</bus_attribute>
+		<bus_attribute>
+			<id>PCIE_SWAP_CLKS</id>
+		<default>0</default>
+		</bus_attribute>
+	</bus>	
+	<bus>
+		<bus_id>proc_socket-0/module-0/proc/pci_configs/E0_x16:E1_x8x8/E1_CLK1_x8 => CX3-2/pciep</bus_id>
+		<bus_type>PCIE</bus_type>
+		<cable>no</cable>
+		<source_path>proc_socket-0/module-0/proc/pci_configs/E0_x16:E1_x8x8/</source_path>
+		<source_target>E1_CLK1_x8</source_target>
+		<dest_path>CX3-2/</dest_path>
+		<dest_target>pciep</dest_target>
+		<bus_attribute>
+			<id>CLASS</id>
+		<default>BUS</default>
+		</bus_attribute>
+		<bus_attribute>
+			<id>LANE_REVERSAL</id>
+		<default>00</default>
+		</bus_attribute>
+		<bus_attribute>
+			<id>PCIE_LANE_EQUALIZATION</id>
+		<default>all,0x33,0x33</default>
+		</bus_attribute>
+		<bus_attribute>
+			<id>PCIE_SWAP_CLKS</id>
+		<default>0</default>
+		</bus_attribute>
+	</bus>	
 </targetInstance>
 <targetInstance>
 	<id>proc_socket-0</id>
@@ -12418,7 +12468,7 @@
 	<id>CX3-1</id>
 	<type>chip-pcie-endpoint</type>
 	<library_target>false</library_target>
-	<instance_name>CX3-1</instance_name>
+	<instance_name>CX3</instance_name>
 	<position>1</position>
 	<child_id>pciep</child_id>
 	<attribute>
@@ -12458,7 +12508,7 @@
 	<id>CX3-2</id>
 	<type>chip-pcie-endpoint</type>
 	<library_target>false</library_target>
-	<instance_name>CX3-2</instance_name>
+	<instance_name>CX3</instance_name>
 	<position>2</position>
 	<child_id>pciep</child_id>
 	<attribute>
