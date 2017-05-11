@@ -2703,7 +2703,15 @@
 <globalSetting>
 	<id>/sys-0/node-0/ponderosa-0/PEX8764-0</id>
 	<property>
+	<id>FRU_ID</id>
+	<value></value>
+	</property>
+	<property>
 	<id>IO_CONFIG_SELECT</id>
+	<value></value>
+	</property>
+	<property>
+	<id>IPMI_INSTANCE</id>
 	<value></value>
 	</property>
 </globalSetting>
@@ -7636,7 +7644,6 @@
 	<child_id>birchconn-5</child_id>
 	<child_id>birchconn-6</child_id>
 	<child_id>birchconn-7</child_id>
-	<child_id>x8slot-3</child_id>
 	<child_id>PEX8764-0</child_id>
 	<child_id>bmc-0</child_id>
 	<child_id>vpd_assoc_child</child_id>
@@ -21566,73 +21573,6 @@
 	<attribute>
 		<id>POSITION</id>
 		<default>7</default>
-	</attribute>
-	<attribute>
-		<id>TYPE</id>
-		<default>NA</default>
-	</attribute>
-</targetInstance>
-<targetInstance>
-	<id>x8slot-3</id>
-	<type>slot-pcieslot-generic</type>
-	<is_root>false</is_root>
-	<instance_name>x8slot</instance_name>
-	<position>3</position>
-	<attribute>
-		<id>32BIT_DMA_SIZE</id>
-		<default></default>
-	</attribute>
-	<attribute>
-		<id>32BIT_MMIO_SIZE</id>
-		<default></default>
-	</attribute>
-	<attribute>
-		<id>64BIT_DMA_SIZE</id>
-		<default></default>
-	</attribute>
-	<attribute>
-		<id>64BIT_MMIO_SIZE</id>
-		<default></default>
-	</attribute>
-	<attribute>
-		<id>CLASS</id>
-		<default>CONNECTOR</default>
-	</attribute>
-	<attribute>
-		<id>CONNECTOR_TYPE</id>
-		<default></default>
-	</attribute>
-	<attribute>
-		<id>HDDW_ORDER</id>
-		<default></default>
-	</attribute>
-	<attribute>
-		<id>LOCATION_CODE</id>
-		<default></default>
-	</attribute>
-	<attribute>
-		<id>LOCATION_CODE_TYPE</id>
-		<default></default>
-	</attribute>
-	<attribute>
-		<id>MRW_TYPE</id>
-		<default>NA</default>
-	</attribute>
-	<attribute>
-		<id>POSITION</id>
-		<default></default>
-	</attribute>
-	<attribute>
-		<id>SLOT_INDEX</id>
-		<default></default>
-	</attribute>
-	<attribute>
-		<id>SLOT_NAME</id>
-		<default></default>
-	</attribute>
-	<attribute>
-		<id>SLOT_TYPE</id>
-		<default></default>
 	</attribute>
 	<attribute>
 		<id>TYPE</id>
