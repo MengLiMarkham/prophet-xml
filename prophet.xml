@@ -6177,11 +6177,11 @@
 		</bus_attribute>
 	</bus>
 	<bus>
-		<bus_id>proc_socket-1/module-1/proc/pci_configs/E0_x16:E1_x8x8/E1_CLK0_x8 => PEX8764-0/pciep</bus_id>
+		<bus_id>proc_socket-0/module-0/proc/pci_configs/E0_x16:E1_x16/E0_x16 => PEX8764-0/pciep</bus_id>
 		<bus_type>PCIE</bus_type>
 		<cable>no</cable>
-		<source_path>proc_socket-1/module-1/proc/pci_configs/E0_x16:E1_x8x8/</source_path>
-		<source_target>E1_CLK0_x8</source_target>
+		<source_path>proc_socket-0/module-0/proc/pci_configs/E0_x16:E1_x16/</source_path>
+		<source_target>E0_x16</source_target>
 		<dest_path>PEX8764-0/</dest_path>
 		<dest_target>pciep</dest_target>
 		<bus_attribute>
@@ -6194,7 +6194,7 @@
 		</bus_attribute>
 		<bus_attribute>
 			<id>PCIE_LANE_EQUALIZATION</id>
-		<default>all,0x55,0x53</default>
+		<default>all,0x33,0x33</default>
 		</bus_attribute>
 		<bus_attribute>
 			<id>PCIE_SWAP_CLKS</id>
