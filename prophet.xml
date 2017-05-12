@@ -9941,7 +9941,7 @@
 	<type>chip-gpioexp-generic</type>
 	<library_target>false</library_target>
 	<instance_name>vddr_gpio</instance_name>
-	<position>0</position>
+	<position>1</position>
 	<child_id>i2c-slave</child_id>
 	<child_id>io-0</child_id>
 	<child_id>io-1</child_id>
@@ -9985,7 +9985,7 @@
 	</attribute>
 	<attribute>
 		<id>POSITION</id>
-		<default>0</default>
+		<default>1</default>
 	</attribute>
 	<attribute>
 		<id>TYPE</id>
