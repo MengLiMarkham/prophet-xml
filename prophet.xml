@@ -7293,7 +7293,7 @@
 	<type>connector-dimmconn-ddr4</type>
 	<library_target>false</library_target>
 	<instance_name>dimmconn</instance_name>
-	<position>0</position>
+	<position>5</position>
 	<attribute>
 		<id>CLASS</id>
 		<default>CONNECTOR</default>
