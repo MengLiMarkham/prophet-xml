@@ -3311,7 +3311,7 @@
 <targetInstances>
 <targetInstance>
 	<id>sys-0</id>
-	<type>sys-sys-power9</type>
+	<type>sys-sys-power8</type>
 	<library_target>false</library_target>
 	<instance_name>sys</instance_name>
 	<position>0</position>
