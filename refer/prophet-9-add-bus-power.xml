@@ -2958,6 +2958,17 @@
 	</property>
 </globalSetting>
 <globalSetting>
+	<id>/sys-0/node-0/ponderosa-0/membuf-0/vddr</id>
+	<property>
+	<id>DIRECTION</id>
+	<value></value>
+	</property>
+	<property>
+	<id>RAIL_NAME</id>
+	<value></value>
+	</property>
+</globalSetting>
+<globalSetting>
 	<id>/sys-0/node-0/ponderosa-0/membuf-1/dmi</id>
 	<property>
 	<id>DIRECTION</id>
@@ -2972,6 +2983,17 @@
 	<id>/sys-0/node-0/ponderosa-0/membuf-1/i2c-master</id>
 	<property>
 	<id>DIRECTION</id>
+	<value></value>
+	</property>
+</globalSetting>
+<globalSetting>
+	<id>/sys-0/node-0/ponderosa-0/membuf-1/vddr</id>
+	<property>
+	<id>DIRECTION</id>
+	<value></value>
+	</property>
+	<property>
+	<id>RAIL_NAME</id>
 	<value></value>
 	</property>
 </globalSetting>
@@ -4152,6 +4174,17 @@
 	</property>
 </globalSetting>
 <globalSetting>
+	<id>/sys-0/node-0/ponderosa-0/vddr_vreg-0/vout</id>
+	<property>
+	<id>DIRECTION</id>
+	<value></value>
+	</property>
+	<property>
+	<id>RAIL_NAME</id>
+	<value></value>
+	</property>
+</globalSetting>
+<globalSetting>
 	<id>/sys-0/node-0/ponderosa-0/vddr_vreg-0/vreg_enable</id>
 	<property>
 	<id>DIRECTION</id>
@@ -4174,6 +4207,17 @@
 	</property>
 	<property>
 	<id>VPD_SIZE</id>
+	<value></value>
+	</property>
+</globalSetting>
+<globalSetting>
+	<id>/sys-0/node-0/ponderosa-0/vddr_vreg-1/vout</id>
+	<property>
+	<id>DIRECTION</id>
+	<value></value>
+	</property>
+	<property>
+	<id>RAIL_NAME</id>
 	<value></value>
 	</property>
 </globalSetting>
@@ -6499,6 +6543,32 @@
 		<bus_attribute>
 			<id>PCIE_SWAP_CLKS</id>
 		<default>0</default>
+		</bus_attribute>
+	</bus>
+	<bus>
+		<bus_id>vddr_vreg-0/vout => membuf-0/vddr</bus_id>
+		<bus_type>POWER</bus_type>
+		<cable>no</cable>
+		<source_path>vddr_vreg-0/</source_path>
+		<source_target>vout</source_target>
+		<dest_path>membuf-0/</dest_path>
+		<dest_target>vddr</dest_target>
+		<bus_attribute>
+			<id>CLASS</id>
+		<default>BUS</default>
+		</bus_attribute>
+	</bus>
+	<bus>
+		<bus_id>vddr_vreg-1/vout => membuf-1/vddr</bus_id>
+		<bus_type>POWER</bus_type>
+		<cable>no</cable>
+		<source_path>vddr_vreg-1/</source_path>
+		<source_target>vout</source_target>
+		<dest_path>membuf-1/</dest_path>
+		<dest_target>vddr</dest_target>
+		<bus_attribute>
+			<id>CLASS</id>
+		<default>BUS</default>
 		</bus_attribute>
 	</bus>
 </targetInstance>
