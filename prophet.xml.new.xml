@@ -3750,6 +3750,110 @@
 		</bus_attribute>
 	</bus>	
 	<bus>
+		<bus_id>membuf-0/mba-0/Port A:CS0 => dimmconn-0/dimm-0/ddr4</bus_id>
+		<bus_type>DDR4</bus_type>
+		<cable>no</cable>
+		<source_path>membuf-0/mba-0/</source_path>
+		<source_target>Port A:CS0</source_target>
+		<dest_path>dimmconn-0/dimm-0/</dest_path>
+		<dest_target>ddr4</dest_target>
+		<bus_attribute>
+			<id>CLASS</id>
+		<default>BUS</default>
+		</bus_attribute>
+	</bus>
+	<bus>
+		<bus_id>membuf-0/mba-0/Port B:CS0 => dimmconn-1/dimm-0/ddr4</bus_id>
+		<bus_type>DDR4</bus_type>
+		<cable>no</cable>
+		<source_path>membuf-0/mba-0/</source_path>
+		<source_target>Port B:CS0</source_target>
+		<dest_path>dimmconn-1/dimm-0/</dest_path>
+		<dest_target>ddr4</dest_target>
+		<bus_attribute>
+			<id>CLASS</id>
+		<default>BUS</default>
+		</bus_attribute>
+	</bus>
+	<bus>
+		<bus_id>membuf-0/mba-1/Port C:CS0 => dimmconn-2/dimm-0/ddr4</bus_id>
+		<bus_type>DDR4</bus_type>
+		<cable>no</cable>
+		<source_path>membuf-0/mba-1/</source_path>
+		<source_target>Port C:CS0</source_target>
+		<dest_path>dimmconn-2/dimm-0/</dest_path>
+		<dest_target>ddr4</dest_target>
+		<bus_attribute>
+			<id>CLASS</id>
+		<default>BUS</default>
+		</bus_attribute>
+	</bus>
+	<bus>
+		<bus_id>membuf-0/mba-1/Port D:CS0 => dimmconn-3/dimm-0/ddr4</bus_id>
+		<bus_type>DDR4</bus_type>
+		<cable>no</cable>
+		<source_path>membuf-0/mba-1/</source_path>
+		<source_target>Port D:CS0</source_target>
+		<dest_path>dimmconn-3/dimm-0/</dest_path>
+		<dest_target>ddr4</dest_target>
+		<bus_attribute>
+			<id>CLASS</id>
+		<default>BUS</default>
+		</bus_attribute>
+	</bus>
+	<bus>
+		<bus_id>membuf-1/mba-0/Port A:CS0 => dimmconn-4/dimm-0/ddr4</bus_id>
+		<bus_type>DDR4</bus_type>
+		<cable>no</cable>
+		<source_path>membuf-1/mba-0/</source_path>
+		<source_target>Port A:CS0</source_target>
+		<dest_path>dimmconn-4/dimm-0/</dest_path>
+		<dest_target>ddr4</dest_target>
+		<bus_attribute>
+			<id>CLASS</id>
+		<default>BUS</default>
+		</bus_attribute>
+	</bus>
+	<bus>
+		<bus_id>membuf-1/mba-0/Port B:CS0 => dimmconn-5/dimm-0/ddr4</bus_id>
+		<bus_type>DDR4</bus_type>
+		<cable>no</cable>
+		<source_path>membuf-1/mba-0/</source_path>
+		<source_target>Port B:CS0</source_target>
+		<dest_path>dimmconn-5/dimm-0/</dest_path>
+		<dest_target>ddr4</dest_target>
+		<bus_attribute>
+			<id>CLASS</id>
+		<default>BUS</default>
+		</bus_attribute>
+	</bus>
+	<bus>
+		<bus_id>membuf-1/mba-1/Port C:CS0 => dimmconn-6/dimm-0/ddr4</bus_id>
+		<bus_type>DDR4</bus_type>
+		<cable>no</cable>
+		<source_path>membuf-1/mba-1/</source_path>
+		<source_target>Port C:CS0</source_target>
+		<dest_path>dimmconn-6/dimm-0/</dest_path>
+		<dest_target>ddr4</dest_target>
+		<bus_attribute>
+			<id>CLASS</id>
+		<default>BUS</default>
+		</bus_attribute>
+	</bus>
+	<bus>
+		<bus_id>membuf-1/mba-1/Port D:CS0 => dimmconn-7/dimm-0/ddr4</bus_id>
+		<bus_type>DDR4</bus_type>
+		<cable>no</cable>
+		<source_path>membuf-1/mba-1/</source_path>
+		<source_target>Port D:CS0</source_target>
+		<dest_path>dimmconn-7/dimm-0/</dest_path>
+		<dest_target>ddr4</dest_target>
+		<bus_attribute>
+			<id>CLASS</id>
+		<default>BUS</default>
+		</bus_attribute>
+	</bus>	
+	<bus>
 		<bus_id>proc_socket-0/module-0/proc/pci_configs/E0_x16:E1_x16/E0_x16 => PEX8764-0/pciep</bus_id>
 		<bus_type>PCIE</bus_type>
 		<cable>no</cable>

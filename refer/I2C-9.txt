@@ -1,0 +1,15 @@
+<globalSetting>
+	<id>/sys-0/node-0/ponderosa-0/dimmconn-3/dimm-0/spd/i2c-slave</id>
+	<property>
+	<id>DIRECTION</id>
+	<value></value>
+	</property>
+	<property>
+	<id>I2C_ADDRESS</id>
+	<value></value>
+	</property>
+	<property>
+	<id>VPD_SIZE</id>
+	<value></value>
+	</property>
+</globalSetting>
