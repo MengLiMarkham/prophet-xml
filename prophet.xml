@@ -1864,6 +1864,94 @@
 	</property>
 </globalSetting>
 <globalSetting>
+	<id>/sys-0/node-0/ponderosa-0/membuf-0/mba-0/Port A:CS0</id>
+	<property>
+	<id>DIRECTION</id>
+	<value></value>
+	</property>
+	<property>
+	<id>IPMI_INSTANCE</id>
+	<value></value>
+	</property>
+</globalSetting>
+<globalSetting>
+	<id>/sys-0/node-0/ponderosa-0/membuf-0/mba-0/Port A:CS1</id>
+	<property>
+	<id>DIRECTION</id>
+	<value></value>
+	</property>
+	<property>
+	<id>IPMI_INSTANCE</id>
+	<value></value>
+	</property>
+</globalSetting>
+<globalSetting>
+	<id>/sys-0/node-0/ponderosa-0/membuf-0/mba-0/Port B:CS0</id>
+	<property>
+	<id>DIRECTION</id>
+	<value></value>
+	</property>
+	<property>
+	<id>IPMI_INSTANCE</id>
+	<value></value>
+	</property>
+</globalSetting>
+<globalSetting>
+	<id>/sys-0/node-0/ponderosa-0/membuf-0/mba-0/Port B:CS1</id>
+	<property>
+	<id>DIRECTION</id>
+	<value></value>
+	</property>
+	<property>
+	<id>IPMI_INSTANCE</id>
+	<value></value>
+	</property>
+</globalSetting>
+<globalSetting>
+	<id>/sys-0/node-0/ponderosa-0/membuf-0/mba-1/Port C:CS0</id>
+	<property>
+	<id>DIRECTION</id>
+	<value></value>
+	</property>
+	<property>
+	<id>IPMI_INSTANCE</id>
+	<value></value>
+	</property>
+</globalSetting>
+<globalSetting>
+	<id>/sys-0/node-0/ponderosa-0/membuf-0/mba-1/Port C:CS1</id>
+	<property>
+	<id>DIRECTION</id>
+	<value></value>
+	</property>
+	<property>
+	<id>IPMI_INSTANCE</id>
+	<value></value>
+	</property>
+</globalSetting>
+<globalSetting>
+	<id>/sys-0/node-0/ponderosa-0/membuf-0/mba-1/Port D:CS0</id>
+	<property>
+	<id>DIRECTION</id>
+	<value></value>
+	</property>
+	<property>
+	<id>IPMI_INSTANCE</id>
+	<value></value>
+	</property>
+</globalSetting>
+<globalSetting>
+	<id>/sys-0/node-0/ponderosa-0/membuf-0/mba-1/Port D:CS1</id>
+	<property>
+	<id>DIRECTION</id>
+	<value></value>
+	</property>
+	<property>
+	<id>IPMI_INSTANCE</id>
+	<value></value>
+	</property>
+</globalSetting>
+<globalSetting>
 	<id>/sys-0/node-0/ponderosa-0/PEX8764-0</id>
 	<property>
 	<id>IO_CONFIG_SELECT</id>
@@ -8085,7 +8173,7 @@
 	<position>-1</position>
 	<attribute>
 		<id>BUS_TYPE</id>
-		<default>DDR3</default>
+		<default>DDR4</default>
 	</attribute>
 	<attribute>
 		<id>CHIP_UNIT</id>
@@ -8132,7 +8220,7 @@
 	<position>-1</position>
 	<attribute>
 		<id>BUS_TYPE</id>
-		<default>DDR3</default>
+		<default>DDR4</default>
 	</attribute>
 	<attribute>
 		<id>CHIP_UNIT</id>
@@ -8179,7 +8267,7 @@
 	<position>-1</position>
 	<attribute>
 		<id>BUS_TYPE</id>
-		<default>DDR3</default>
+		<default>DDR4</default>
 	</attribute>
 	<attribute>
 		<id>CHIP_UNIT</id>
@@ -8226,7 +8314,7 @@
 	<position>-1</position>
 	<attribute>
 		<id>BUS_TYPE</id>
-		<default>DDR3</default>
+		<default>DDR4</default>
 	</attribute>
 	<attribute>
 		<id>CHIP_UNIT</id>
@@ -8312,7 +8400,7 @@
 	<position>-1</position>
 	<attribute>
 		<id>BUS_TYPE</id>
-		<default>DDR3</default>
+		<default>DDR4</default>
 	</attribute>
 	<attribute>
 		<id>CHIP_UNIT</id>
@@ -8359,7 +8447,7 @@
 	<position>-1</position>
 	<attribute>
 		<id>BUS_TYPE</id>
-		<default>DDR3</default>
+		<default>DDR4</default>
 	</attribute>
 	<attribute>
 		<id>CHIP_UNIT</id>
@@ -8406,7 +8494,7 @@
 	<position>-1</position>
 	<attribute>
 		<id>BUS_TYPE</id>
-		<default>DDR3</default>
+		<default>DDR4</default>
 	</attribute>
 	<attribute>
 		<id>CHIP_UNIT</id>
@@ -8453,7 +8541,7 @@
 	<position>-1</position>
 	<attribute>
 		<id>BUS_TYPE</id>
-		<default>DDR3</default>
+		<default>DDR4</default>
 	</attribute>
 	<attribute>
 		<id>CHIP_UNIT</id>
