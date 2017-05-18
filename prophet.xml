@@ -4403,18 +4403,18 @@
 		<dest_path>vddr_gpio-0/</dest_path>
 		<dest_target>i2c-slave</dest_target>
 		<bus_attribute>
-			<id>BUS_WIDTH</id>
-		<default>2</default>
-		</bus_attribute>
-		<bus_attribute>
 			<id>CLASS</id>
 		<default>BUS</default>
 		</bus_attribute>
 		<bus_attribute>
-			<id>I2C_SPEED</id>
-		<default></default>
+			<id>I2C_ADDRESS</id>
+		<default>0x40</default>
 		</bus_attribute>
-	</bus>	
+		<bus_attribute>
+			<id>I2C_SPEED</id>
+		<default>400</default>
+		</bus_attribute>
+	</bus>
 	<bus>
 		<bus_id>membuf-1/i2c-spare => vddr_gpio-1/i2c-slave</bus_id>
 		<bus_type>I2C</bus_type>
@@ -4424,18 +4424,18 @@
 		<dest_path>vddr_gpio-1/</dest_path>
 		<dest_target>i2c-slave</dest_target>
 		<bus_attribute>
-			<id>BUS_WIDTH</id>
-		<default>2</default>
-		</bus_attribute>
-		<bus_attribute>
 			<id>CLASS</id>
 		<default>BUS</default>
 		</bus_attribute>
 		<bus_attribute>
-			<id>I2C_SPEED</id>
-		<default></default>
+			<id>I2C_ADDRESS</id>
+		<default>0x42</default>
 		</bus_attribute>
-	</bus>		
+		<bus_attribute>
+			<id>I2C_SPEED</id>
+		<default>400</default>
+		</bus_attribute>
+	</bus>	
 	<bus>
 		<bus_id>proc_socket-0/module-0/proc/pci_configs/E0_x16:E1_x16/E0_x16 => PEX8764-0/pciep</bus_id>
 		<bus_type>PCIE</bus_type>
@@ -4536,10 +4536,6 @@
 		<source_target>io-0</source_target>
 		<dest_path>vddr_vreg-1/</dest_path>
 		<dest_target>vreg_enable</dest_target>
-		<bus_attribute>
-			<id>BUS_WIDTH</id>
-		<default>1</default>
-		</bus_attribute>
 		<bus_attribute>
 			<id>CLASS</id>
 		<default>BUS</default>
