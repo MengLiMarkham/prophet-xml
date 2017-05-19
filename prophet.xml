@@ -4193,16 +4193,16 @@
 		<dest_path>dimmconn-0/dimm-0/spd/</dest_path>
 		<dest_target>i2c-slave</dest_target>
 		<bus_attribute>
-			<id>BUS_WIDTH</id>
-		<default>2</default>
-		</bus_attribute>
-		<bus_attribute>
 			<id>CLASS</id>
 		<default>BUS</default>
 		</bus_attribute>
 		<bus_attribute>
+			<id>I2C_ADDRESS</id>
+		<default>0xA4</default>
+		</bus_attribute>
+		<bus_attribute>
 			<id>I2C_SPEED</id>
-		<default></default>
+		<default>400</default>
 		</bus_attribute>
 	</bus>
 	<bus>
@@ -4214,16 +4214,16 @@
 		<dest_path>dimmconn-1/dimm-0/spd/</dest_path>
 		<dest_target>i2c-slave</dest_target>
 		<bus_attribute>
-			<id>BUS_WIDTH</id>
-		<default>2</default>
-		</bus_attribute>
-		<bus_attribute>
 			<id>CLASS</id>
 		<default>BUS</default>
 		</bus_attribute>
 		<bus_attribute>
+			<id>I2C_ADDRESS</id>
+		<default>0xA6</default>
+		</bus_attribute>
+		<bus_attribute>
 			<id>I2C_SPEED</id>
-		<default></default>
+		<default>400</default>
 		</bus_attribute>
 	</bus>
 	<bus>
@@ -4235,16 +4235,16 @@
 		<dest_path>dimmconn-2/dimm-0/spd/</dest_path>
 		<dest_target>i2c-slave</dest_target>
 		<bus_attribute>
-			<id>BUS_WIDTH</id>
-		<default>2</default>
-		</bus_attribute>
-		<bus_attribute>
 			<id>CLASS</id>
 		<default>BUS</default>
 		</bus_attribute>
 		<bus_attribute>
+			<id>I2C_ADDRESS</id>
+		<default>0xA8</default>
+		</bus_attribute>
+		<bus_attribute>
 			<id>I2C_SPEED</id>
-		<default></default>
+		<default>400</default>
 		</bus_attribute>
 	</bus>
 	<bus>
@@ -4256,16 +4256,16 @@
 		<dest_path>dimmconn-3/dimm-0/spd/</dest_path>
 		<dest_target>i2c-slave</dest_target>
 		<bus_attribute>
-			<id>BUS_WIDTH</id>
-		<default>2</default>
-		</bus_attribute>
-		<bus_attribute>
 			<id>CLASS</id>
 		<default>BUS</default>
 		</bus_attribute>
 		<bus_attribute>
+			<id>I2C_ADDRESS</id>
+		<default>0xAA</default>
+		</bus_attribute>
+		<bus_attribute>
 			<id>I2C_SPEED</id>
-		<default></default>
+		<default>400</default>
 		</bus_attribute>
 	</bus>
 	<bus>
@@ -4277,16 +4277,16 @@
 		<dest_path>dimmconn-4/dimm-0/spd/</dest_path>
 		<dest_target>i2c-slave</dest_target>
 		<bus_attribute>
-			<id>BUS_WIDTH</id>
-		<default>2</default>
-		</bus_attribute>
-		<bus_attribute>
 			<id>CLASS</id>
 		<default>BUS</default>
 		</bus_attribute>
 		<bus_attribute>
+			<id>I2C_ADDRESS</id>
+		<default>0xA4</default>
+		</bus_attribute>
+		<bus_attribute>
 			<id>I2C_SPEED</id>
-		<default></default>
+		<default>400</default>
 		</bus_attribute>
 	</bus>
 	<bus>
@@ -4298,16 +4298,16 @@
 		<dest_path>dimmconn-5/dimm-0/spd/</dest_path>
 		<dest_target>i2c-slave</dest_target>
 		<bus_attribute>
-			<id>BUS_WIDTH</id>
-		<default>2</default>
-		</bus_attribute>
-		<bus_attribute>
 			<id>CLASS</id>
 		<default>BUS</default>
 		</bus_attribute>
 		<bus_attribute>
+			<id>I2C_ADDRESS</id>
+		<default>0xA6</default>
+		</bus_attribute>
+		<bus_attribute>
 			<id>I2C_SPEED</id>
-		<default></default>
+		<default>400</default>
 		</bus_attribute>
 	</bus>
 	<bus>
@@ -4319,16 +4319,16 @@
 		<dest_path>dimmconn-6/dimm-0/spd/</dest_path>
 		<dest_target>i2c-slave</dest_target>
 		<bus_attribute>
-			<id>BUS_WIDTH</id>
-		<default>2</default>
-		</bus_attribute>
-		<bus_attribute>
 			<id>CLASS</id>
 		<default>BUS</default>
 		</bus_attribute>
 		<bus_attribute>
+			<id>I2C_ADDRESS</id>
+		<default>0xA8</default>
+		</bus_attribute>
+		<bus_attribute>
 			<id>I2C_SPEED</id>
-		<default></default>
+		<default>400</default>
 		</bus_attribute>
 	</bus>
 	<bus>
@@ -4340,18 +4340,18 @@
 		<dest_path>dimmconn-7/dimm-0/spd/</dest_path>
 		<dest_target>i2c-slave</dest_target>
 		<bus_attribute>
-			<id>BUS_WIDTH</id>
-		<default>2</default>
-		</bus_attribute>
-		<bus_attribute>
 			<id>CLASS</id>
 		<default>BUS</default>
 		</bus_attribute>
 		<bus_attribute>
-			<id>I2C_SPEED</id>
-		<default></default>
+			<id>I2C_ADDRESS</id>
+		<default>0xAA</default>
 		</bus_attribute>
-	</bus>	
+		<bus_attribute>
+			<id>I2C_SPEED</id>
+		<default>400</default>
+		</bus_attribute>
+	</bus>
 	<bus>
 		<bus_id>bmc-0/bmc_i2c_master => vddr_vreg-0/i2c-slave</bus_id>
 		<bus_type>I2C</bus_type>
@@ -4361,12 +4361,12 @@
 		<dest_path>vddr_vreg-0/</dest_path>
 		<dest_target>i2c-slave</dest_target>
 		<bus_attribute>
-			<id>BUS_WIDTH</id>
-		<default>2</default>
-		</bus_attribute>
-		<bus_attribute>
 			<id>CLASS</id>
 		<default>BUS</default>
+		</bus_attribute>
+		<bus_attribute>
+			<id>I2C_ADDRESS</id>
+		<default>0xA0</default>
 		</bus_attribute>
 		<bus_attribute>
 			<id>I2C_SPEED</id>
@@ -4382,12 +4382,12 @@
 		<dest_path>vddr_vreg-1/</dest_path>
 		<dest_target>i2c-slave</dest_target>
 		<bus_attribute>
-			<id>BUS_WIDTH</id>
-		<default>2</default>
-		</bus_attribute>
-		<bus_attribute>
 			<id>CLASS</id>
 		<default>BUS</default>
+		</bus_attribute>
+		<bus_attribute>
+			<id>I2C_ADDRESS</id>
+		<default>0xA0</default>
 		</bus_attribute>
 		<bus_attribute>
 			<id>I2C_SPEED</id>

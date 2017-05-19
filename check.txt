@@ -1,1 +1,10 @@
 dimm-fire.txt
+
+I2C address:
+<bus_id>bmc-0/bmc_i2c_master => vddr_vreg-0/i2c-slave</bus_id>
+<bus_id>bmc-0/bmc_i2c_master => vddr_vreg-1/i2c-slave</bus_id>
+
+<bus_id>bmc-0/bmc_i2c_master => proc_socket-0/module-0/proc/i2c-slave</bus_id>
+<bus_id>bmc-0/bmc_i2c_master => proc_socket-1/module-1/proc/i2c-slave</bus_id>	?
+
+<bus_id>proc_socket-0/module-0/proc/i2c-master-lightpath => planar_vpd-1/i2c-slave</bus_id>
