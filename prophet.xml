@@ -1990,120 +1990,56 @@
 <globalSetting>
 	<id>/sys-0/node-0/ponderosa-0/dimmconn-0/dimm-0/spd/i2c-slave</id>
 	<property>
-	<id>DIRECTION</id>
-	<value></value>
-	</property>
-	<property>
-	<id>I2C_ADDRESS</id>
-	<value></value>
-	</property>
-	<property>
-	<id>VPD_SIZE</id>
+	<id>IO_CONFIG_SELECT</id>
 	<value></value>
 	</property>
 </globalSetting>
 <globalSetting>
 	<id>/sys-0/node-0/ponderosa-0/dimmconn-1/dimm-0/spd/i2c-slave</id>
 	<property>
-	<id>DIRECTION</id>
-	<value></value>
-	</property>
-	<property>
-	<id>I2C_ADDRESS</id>
-	<value></value>
-	</property>
-	<property>
-	<id>VPD_SIZE</id>
+	<id>IO_CONFIG_SELECT</id>
 	<value></value>
 	</property>
 </globalSetting>
 <globalSetting>
 	<id>/sys-0/node-0/ponderosa-0/dimmconn-2/dimm-0/spd/i2c-slave</id>
 	<property>
-	<id>DIRECTION</id>
-	<value></value>
-	</property>
-	<property>
-	<id>I2C_ADDRESS</id>
-	<value></value>
-	</property>
-	<property>
-	<id>VPD_SIZE</id>
+	<id>IO_CONFIG_SELECT</id>
 	<value></value>
 	</property>
 </globalSetting>
 <globalSetting>
 	<id>/sys-0/node-0/ponderosa-0/dimmconn-3/dimm-0/spd/i2c-slave</id>
 	<property>
-	<id>DIRECTION</id>
-	<value></value>
-	</property>
-	<property>
-	<id>I2C_ADDRESS</id>
-	<value></value>
-	</property>
-	<property>
-	<id>VPD_SIZE</id>
+	<id>IO_CONFIG_SELECT</id>
 	<value></value>
 	</property>
 </globalSetting>
 <globalSetting>
 	<id>/sys-0/node-0/ponderosa-0/dimmconn-4/dimm-0/spd/i2c-slave</id>
 	<property>
-	<id>DIRECTION</id>
-	<value></value>
-	</property>
-	<property>
-	<id>I2C_ADDRESS</id>
-	<value></value>
-	</property>
-	<property>
-	<id>VPD_SIZE</id>
+	<id>IO_CONFIG_SELECT</id>
 	<value></value>
 	</property>
 </globalSetting>
 <globalSetting>
 	<id>/sys-0/node-0/ponderosa-0/dimmconn-5/dimm-0/spd/i2c-slave</id>
 	<property>
-	<id>DIRECTION</id>
-	<value></value>
-	</property>
-	<property>
-	<id>I2C_ADDRESS</id>
-	<value></value>
-	</property>
-	<property>
-	<id>VPD_SIZE</id>
+	<id>IO_CONFIG_SELECT</id>
 	<value></value>
 	</property>
 </globalSetting>
 <globalSetting>
 	<id>/sys-0/node-0/ponderosa-0/dimmconn-6/dimm-0/spd/i2c-slave</id>
 	<property>
-	<id>DIRECTION</id>
-	<value></value>
-	</property>
-	<property>
-	<id>I2C_ADDRESS</id>
-	<value></value>
-	</property>
-	<property>
-	<id>VPD_SIZE</id>
+	<id>IO_CONFIG_SELECT</id>
 	<value></value>
 	</property>
 </globalSetting>
 <globalSetting>
 	<id>/sys-0/node-0/ponderosa-0/dimmconn-7/dimm-0/spd/i2c-slave</id>
 	<property>
-	<id>DIRECTION</id>
-	<value></value>
-	</property>
-	<property>
-	<id>I2C_ADDRESS</id>
-	<value></value>
-	</property>
-	<property>
-	<id>VPD_SIZE</id>
+	<id>IO_CONFIG_SELECT</id>
 	<value></value>
 	</property>
 </globalSetting>
@@ -2124,30 +2060,14 @@
 <globalSetting>
 	<id>/sys-0/node-0/ponderosa-0/vddr_gpio-0/i2c-slave</id>
 	<property>
-	<id>DIRECTION</id>
-	<value></value>
-	</property>
-	<property>
-	<id>I2C_ADDRESS</id>
-	<value></value>
-	</property>
-	<property>
-	<id>VPD_SIZE</id>
+	<id>IO_CONFIG_SELECT</id>
 	<value></value>
 	</property>
 </globalSetting>
 <globalSetting>
 	<id>/sys-0/node-0/ponderosa-0/vddr_gpio-1/i2c-slave</id>
 	<property>
-	<id>DIRECTION</id>
-	<value></value>
-	</property>
-	<property>
-	<id>I2C_ADDRESS</id>
-	<value></value>
-	</property>
-	<property>
-	<id>VPD_SIZE</id>
+	<id>IO_CONFIG_SELECT</id>
 	<value></value>
 	</property>
 </globalSetting>
@@ -2176,30 +2096,14 @@
 <globalSetting>
 	<id>/sys-0/node-0/ponderosa-0/vddr_vreg-0/i2c-slave</id>
 	<property>
-	<id>DIRECTION</id>
-	<value></value>
-	</property>
-	<property>
-	<id>I2C_ADDRESS</id>
-	<value></value>
-	</property>
-	<property>
-	<id>VPD_SIZE</id>
+	<id>IO_CONFIG_SELECT</id>
 	<value></value>
 	</property>
 </globalSetting>
 <globalSetting>
 	<id>/sys-0/node-0/ponderosa-0/vddr_vreg-1/i2c-slave</id>
 	<property>
-	<id>DIRECTION</id>
-	<value></value>
-	</property>
-	<property>
-	<id>I2C_ADDRESS</id>
-	<value></value>
-	</property>
-	<property>
-	<id>VPD_SIZE</id>
+	<id>IO_CONFIG_SELECT</id>
 	<value></value>
 	</property>
 </globalSetting>
@@ -2227,68 +2131,28 @@
 <globalSetting>
 	<id>/sys-0/node-0/ponderosa-0/vddr_gpio-0/io-0</id>
 	<property>
-	<id>DIRECTION</id>
-	<value></value>
-	</property>
-	<property>
-	<id>DRIVER_TYPE</id>
-	<value></value>
-	</property>
-	<property>
-	<id>GPIO_TYPE</id>
-	<value></value>
-	</property>
-	<property>
-	<id>PIN_NAME</id>
-	<value></value>
-	</property>
-	<property>
-	<id>POR_VALUE</id>
+	<id>IO_CONFIG_SELECT</id>
 	<value></value>
 	</property>
 </globalSetting>
 <globalSetting>
 	<id>/sys-0/node-0/ponderosa-0/vddr_gpio-1/io-0</id>
 	<property>
-	<id>DIRECTION</id>
-	<value></value>
-	</property>
-	<property>
-	<id>DRIVER_TYPE</id>
-	<value></value>
-	</property>
-	<property>
-	<id>GPIO_TYPE</id>
-	<value></value>
-	</property>
-	<property>
-	<id>PIN_NAME</id>
-	<value></value>
-	</property>
-	<property>
-	<id>POR_VALUE</id>
+	<id>IO_CONFIG_SELECT</id>
 	<value></value>
 	</property>
 </globalSetting>
 <globalSetting>
 	<id>/sys-0/node-0/ponderosa-0/vddr_vreg-0/vreg_enable</id>
 	<property>
-	<id>DIRECTION</id>
-	<value></value>
-	</property>
-	<property>
-	<id>GPIO_TYPE</id>
+	<id>IO_CONFIG_SELECT</id>
 	<value></value>
 	</property>
 </globalSetting>
 <globalSetting>
 	<id>/sys-0/node-0/ponderosa-0/vddr_vreg-1/vreg_enable</id>
 	<property>
-	<id>DIRECTION</id>
-	<value></value>
-	</property>
-	<property>
-	<id>GPIO_TYPE</id>
+	<id>IO_CONFIG_SELECT</id>
 	<value></value>
 	</property>
 </globalSetting>

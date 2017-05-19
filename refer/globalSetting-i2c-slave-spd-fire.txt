@@ -1,0 +1,7 @@
+<globalSetting>
+	<id>/sys-0/node-0/ponderosa-0/birchconn-3/birch-0/dimmconn-3/dimm-0/spd</id>
+	<property>
+	<id>IO_CONFIG_SELECT</id>
+	<value></value>
+	</property>
+</globalSetting>
