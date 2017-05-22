@@ -1,7 +1,0 @@
-<globalSetting>
-	<id>/sys-0/node-0/ponderosa-0/birchconn-0/birch-0/vddr_gpio-1</id>
-	<property>
-	<id>IO_CONFIG_SELECT</id>
-	<value></value>
-	</property>
-</globalSetting>
