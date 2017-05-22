@@ -1822,143 +1822,91 @@
 <globalSetting>
 	<id>/sys-0/node-0/ponderosa-0/proc_socket-0/module-0/proc/mcs-1</id>
 	<property>
-	<id>DIRECTION</id>
-	<value></value>
-	</property>
-	<property>
-	<id>IPMI_INSTANCE</id>
+	<id>IO_CONFIG_SELECT</id>
 	<value></value>
 	</property>
 </globalSetting>
 <globalSetting>
 	<id>/sys-0/node-0/ponderosa-0/proc_socket-0/module-0/proc/mcs-5</id>
 	<property>
-	<id>DIRECTION</id>
-	<value></value>
-	</property>
-	<property>
-	<id>IPMI_INSTANCE</id>
+	<id>IO_CONFIG_SELECT</id>
 	<value></value>
 	</property>
 </globalSetting>
 <globalSetting>
 	<id>/sys-0/node-0/ponderosa-0/membuf-0/dmi</id>
 	<property>
-	<id>DIRECTION</id>
-	<value></value>
-	</property>
-	<property>
-	<id>IPMI_INSTANCE</id>
+	<id>IO_CONFIG_SELECT</id>
 	<value></value>
 	</property>
 </globalSetting>
 <globalSetting>
 	<id>/sys-0/node-0/ponderosa-0/membuf-1/dmi</id>
 	<property>
-	<id>DIRECTION</id>
-	<value></value>
-	</property>
-	<property>
-	<id>IPMI_INSTANCE</id>
+	<id>IO_CONFIG_SELECT</id>
 	<value></value>
 	</property>
 </globalSetting>
 <globalSetting>
 	<id>/sys-0/node-0/ponderosa-0/membuf-0/mba-0/Port A:CS0</id>
 	<property>
-	<id>DIRECTION</id>
-	<value></value>
-	</property>
-	<property>
-	<id>IPMI_INSTANCE</id>
+	<id>IO_CONFIG_SELECT</id>
 	<value></value>
 	</property>
 </globalSetting>
 <globalSetting>
 	<id>/sys-0/node-0/ponderosa-0/membuf-0/mba-0/Port A:CS1</id>
 	<property>
-	<id>DIRECTION</id>
-	<value></value>
-	</property>
-	<property>
-	<id>IPMI_INSTANCE</id>
+	<id>IO_CONFIG_SELECT</id>
 	<value></value>
 	</property>
 </globalSetting>
 <globalSetting>
 	<id>/sys-0/node-0/ponderosa-0/membuf-0/mba-0/Port B:CS0</id>
 	<property>
-	<id>DIRECTION</id>
-	<value></value>
-	</property>
-	<property>
-	<id>IPMI_INSTANCE</id>
+	<id>IO_CONFIG_SELECT</id>
 	<value></value>
 	</property>
 </globalSetting>
 <globalSetting>
 	<id>/sys-0/node-0/ponderosa-0/membuf-0/mba-0/Port B:CS1</id>
 	<property>
-	<id>DIRECTION</id>
-	<value></value>
-	</property>
-	<property>
-	<id>IPMI_INSTANCE</id>
+	<id>IO_CONFIG_SELECT</id>
 	<value></value>
 	</property>
 </globalSetting>
 <globalSetting>
 	<id>/sys-0/node-0/ponderosa-0/membuf-0/mba-1/Port C:CS0</id>
 	<property>
-	<id>DIRECTION</id>
-	<value></value>
-	</property>
-	<property>
-	<id>IPMI_INSTANCE</id>
+	<id>IO_CONFIG_SELECT</id>
 	<value></value>
 	</property>
 </globalSetting>
 <globalSetting>
 	<id>/sys-0/node-0/ponderosa-0/membuf-0/mba-1/Port C:CS1</id>
 	<property>
-	<id>DIRECTION</id>
-	<value></value>
-	</property>
-	<property>
-	<id>IPMI_INSTANCE</id>
+	<id>IO_CONFIG_SELECT</id>
 	<value></value>
 	</property>
 </globalSetting>
 <globalSetting>
 	<id>/sys-0/node-0/ponderosa-0/membuf-0/mba-1/Port D:CS0</id>
 	<property>
-	<id>DIRECTION</id>
-	<value></value>
-	</property>
-	<property>
-	<id>IPMI_INSTANCE</id>
+	<id>IO_CONFIG_SELECT</id>
 	<value></value>
 	</property>
 </globalSetting>
 <globalSetting>
 	<id>/sys-0/node-0/ponderosa-0/membuf-0/vddr</id>
 	<property>
-	<id>DIRECTION</id>
-	<value></value>
-	</property>
-	<property>
-	<id>RAIL_NAME</id>
+	<id>IO_CONFIG_SELECT</id>
 	<value></value>
 	</property>
 </globalSetting>
 <globalSetting>
 	<id>/sys-0/node-0/ponderosa-0/membuf-1/vddr</id>
 	<property>
-	<id>DIRECTION</id>
-	<value></value>
-	</property>
-	<property>
-	<id>RAIL_NAME</id>
+	<id>IO_CONFIG_SELECT</id>
 	<value></value>
 	</property>
 </globalSetting>
@@ -1972,20 +1920,17 @@
 <globalSetting>
 	<id>/sys-0/node-0/ponderosa-0/membuf-1/i2c-master</id>
 	<property>
-	<id>DIRECTION</id>
+	<id>IO_CONFIG_SELECT</id>
 	<value></value>
 	</property>
 </globalSetting>
 <globalSetting>
 	<id>/sys-0/node-0/ponderosa-0/membuf-0/mba-1/Port D:CS1</id>
 	<property>
-	<id>DIRECTION</id>
+	<id>IO_CONFIG_SELECT</id>
 	<value></value>
 	</property>
-	<property>
-	<id>IPMI_INSTANCE</id>
-	<value></value>
-	</property>
+
 </globalSetting>
 <globalSetting>
 	<id>/sys-0/node-0/ponderosa-0/dimmconn-0/dimm-0/spd/i2c-slave</id>
@@ -2046,14 +1991,14 @@
 <globalSetting>
 	<id>/sys-0/node-0/ponderosa-0/membuf-0/i2c-spare</id>
 	<property>
-	<id>DIRECTION</id>
+	<id>IO_CONFIG_SELECT</id>
 	<value></value>
 	</property>
 </globalSetting>
 <globalSetting>
 	<id>/sys-0/node-0/ponderosa-0/bmc-0/bmc_i2c_master</id>
 	<property>
-	<id>DIRECTION</id>
+	<id>IO_CONFIG_SELECT</id>
 	<value></value>
 	</property>
 </globalSetting>
@@ -2074,22 +2019,14 @@
 <globalSetting>
 	<id>/sys-0/node-0/ponderosa-0/vddr_vreg-0/vout</id>
 	<property>
-	<id>DIRECTION</id>
-	<value></value>
-	</property>
-	<property>
-	<id>RAIL_NAME</id>
+	<id>IO_CONFIG_SELECT</id>
 	<value></value>
 	</property>
 </globalSetting>
 <globalSetting>
 	<id>/sys-0/node-0/ponderosa-0/vddr_vreg-1/vout</id>
 	<property>
-	<id>DIRECTION</id>
-	<value></value>
-	</property>
-	<property>
-	<id>RAIL_NAME</id>
+	<id>IO_CONFIG_SELECT</id>
 	<value></value>
 	</property>
 </globalSetting>
