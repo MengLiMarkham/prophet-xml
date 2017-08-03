@@ -2754,7 +2754,7 @@
 		</bus_attribute>
 		<bus_attribute>
 			<id>I2C_SPEED</id>
-		<default>400</default>
+		<default>100</default>
 		</bus_attribute>
 	</bus>
 	<bus>
@@ -2775,7 +2775,7 @@
 		</bus_attribute>
 		<bus_attribute>
 			<id>I2C_SPEED</id>
-		<default>400</default>
+		<default>100</default>
 		</bus_attribute>
 	</bus>
 	<bus>
@@ -2796,7 +2796,7 @@
 		</bus_attribute>
 		<bus_attribute>
 			<id>I2C_SPEED</id>
-		<default>400</default>
+		<default>100</default>
 		</bus_attribute>
 	</bus>
 	<bus>
@@ -2817,7 +2817,7 @@
 		</bus_attribute>
 		<bus_attribute>
 			<id>I2C_SPEED</id>
-		<default>400</default>
+		<default>100</default>
 		</bus_attribute>
 	</bus>
 	<bus>
@@ -2838,7 +2838,7 @@
 		</bus_attribute>
 		<bus_attribute>
 			<id>I2C_SPEED</id>
-		<default>400</default>
+		<default>100</default>
 		</bus_attribute>
 	</bus>
 	<bus>
@@ -2859,7 +2859,7 @@
 		</bus_attribute>
 		<bus_attribute>
 			<id>I2C_SPEED</id>
-		<default>400</default>
+		<default>100</default>
 		</bus_attribute>
 	</bus>
 	<bus>
@@ -2880,7 +2880,7 @@
 		</bus_attribute>
 		<bus_attribute>
 			<id>I2C_SPEED</id>
-		<default>400</default>
+		<default>100</default>
 		</bus_attribute>
 	</bus>
 	<bus>
@@ -2901,7 +2901,7 @@
 		</bus_attribute>
 		<bus_attribute>
 			<id>I2C_SPEED</id>
-		<default>400</default>
+		<default>100</default>
 		</bus_attribute>
 	</bus>
 	<bus>
@@ -2922,7 +2922,7 @@
 		</bus_attribute>
 		<bus_attribute>
 			<id>I2C_SPEED</id>
-		<default>400</default>
+		<default>100</default>
 		</bus_attribute>
 	</bus>
 	<bus>
@@ -2943,7 +2943,7 @@
 		</bus_attribute>
 		<bus_attribute>
 			<id>I2C_SPEED</id>
-		<default>400</default>
+		<default>100</default>
 		</bus_attribute>
 	</bus>
 	<bus>
@@ -2964,7 +2964,7 @@
 		</bus_attribute>
 		<bus_attribute>
 			<id>I2C_SPEED</id>
-		<default>400</default>
+		<default>100</default>
 		</bus_attribute>
 	</bus>
 	<bus>
