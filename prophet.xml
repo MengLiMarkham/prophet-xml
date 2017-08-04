@@ -1349,7 +1349,29 @@
 	</property>
 	<property>
 	<id>IPMI_SENSOR_ID</id>
-	<value></value>
+	<value>0xAC</value>
+	</property>
+</globalSetting>
+<globalSetting>
+	<id>/sys-0/apss-0/Fan_Power_A</id>
+	<property>
+	<id>INSTANCE_ID</id>
+	<value>Fan_Power_A</value>
+	</property>
+	<property>
+	<id>IPMI_SENSOR_ID</id>
+	<value>0</value>
+	</property>
+</globalSetting>
+<globalSetting>
+	<id>/sys-0/apss-0/Fan_Power_B</id>
+	<property>
+	<id>INSTANCE_ID</id>
+	<value>Fan_Power_B</value>
+	</property>
+	<property>
+	<id>IPMI_SENSOR_ID</id>
+	<value>0</value>
 	</property>
 </globalSetting>
 <globalSetting>
@@ -1360,7 +1382,7 @@
 	</property>
 	<property>
 	<id>IPMI_SENSOR_ID</id>
-	<value></value>
+	<value>0</value>
 	</property>
 </globalSetting>
 <globalSetting>
@@ -1371,7 +1393,84 @@
 	</property>
 	<property>
 	<id>IPMI_SENSOR_ID</id>
-	<value></value>
+	<value>0</value>
+	</property>
+</globalSetting>
+<globalSetting>
+	<id>/sys-0/apss-0/IO_A_Power</id>
+	<property>
+	<id>INSTANCE_ID</id>
+	<value>IO_A_Power</value>
+	</property>
+	<property>
+	<id>IPMI_SENSOR_ID</id>
+	<value>0</value>
+	</property>
+</globalSetting>
+<globalSetting>
+	<id>/sys-0/apss-0/IO_B_Power</id>
+	<property>
+	<id>INSTANCE_ID</id>
+	<value>IO_B_Power</value>
+	</property>
+	<property>
+	<id>IPMI_SENSOR_ID</id>
+	<value>0</value>
+	</property>
+</globalSetting>
+<globalSetting>
+	<id>/sys-0/apss-0/IO_C_Power</id>
+	<property>
+	<id>INSTANCE_ID</id>
+	<value>IO_C_Power</value>
+	</property>
+	<property>
+	<id>IPMI_SENSOR_ID</id>
+	<value>0</value>
+	</property>
+</globalSetting>
+<globalSetting>
+	<id>/sys-0/apss-0/Memory_Cache_Power</id>
+	<property>
+	<id>INSTANCE_ID</id>
+	<value>Memory_Cache_Power</value>
+	</property>
+	<property>
+	<id>IPMI_SENSOR_ID</id>
+	<value>0</value>
+	</property>
+</globalSetting>
+<globalSetting>
+	<id>/sys-0/apss-0/Memory_Proc0_0_Power</id>
+	<property>
+	<id>INSTANCE_ID</id>
+	<value>Memory_Proc0_0_Power</value>
+	</property>
+	<property>
+	<id>IPMI_SENSOR_ID</id>
+	<value>0</value>
+	</property>
+</globalSetting>
+<globalSetting>
+	<id>/sys-0/apss-0/Memory_Proc0_1_Power</id>
+	<property>
+	<id>INSTANCE_ID</id>
+	<value>Memory_Proc0_1_Power</value>
+	</property>
+	<property>
+	<id>IPMI_SENSOR_ID</id>
+	<value>0</value>
+	</property>
+</globalSetting>
+<globalSetting>
+	<id>/sys-0/apss-0/Memory_Proc0_2_Power</id>
+	<property>
+	<id>INSTANCE_ID</id>
+	<value>Memory_Proc0_2_Power</value>
+	</property>
+	<property>
+	<id>IPMI_SENSOR_ID</id>
+	<value>0</value>
 	</property>
 </globalSetting>
 <globalSetting>
@@ -1382,7 +1481,7 @@
 	</property>
 	<property>
 	<id>IPMI_SENSOR_ID</id>
-	<value></value>
+	<value>0</value>
 	</property>
 </globalSetting>
 <globalSetting>
@@ -1393,7 +1492,7 @@
 	</property>
 	<property>
 	<id>IPMI_SENSOR_ID</id>
-	<value></value>
+	<value>0</value>
 	</property>
 </globalSetting>
 <globalSetting>
@@ -1404,7 +1503,7 @@
 	</property>
 	<property>
 	<id>IPMI_SENSOR_ID</id>
-	<value></value>
+	<value>0</value>
 	</property>
 </globalSetting>
 <globalSetting>
@@ -1415,7 +1514,51 @@
 	</property>
 	<property>
 	<id>IPMI_SENSOR_ID</id>
-	<value></value>
+	<value>0</value>
+	</property>
+</globalSetting>
+<globalSetting>
+	<id>/sys-0/apss-0/PCIE_Proc0_Power</id>
+	<property>
+	<id>INSTANCE_ID</id>
+	<value>PCIE_Proc0_Power</value>
+	</property>
+	<property>
+	<id>IPMI_SENSOR_ID</id>
+	<value>0</value>
+	</property>
+</globalSetting>
+<globalSetting>
+	<id>/sys-0/apss-0/PCIE_Proc1_Power</id>
+	<property>
+	<id>INSTANCE_ID</id>
+	<value>PCIE_Proc1_Power</value>
+	</property>
+	<property>
+	<id>IPMI_SENSOR_ID</id>
+	<value>0</value>
+	</property>
+</globalSetting>
+<globalSetting>
+	<id>/sys-0/apss-0/PCIE_Proc2_Power</id>
+	<property>
+	<id>INSTANCE_ID</id>
+	<value>PCIE_Proc2_Power</value>
+	</property>
+	<property>
+	<id>IPMI_SENSOR_ID</id>
+	<value>0</value>
+	</property>
+</globalSetting>
+<globalSetting>
+	<id>/sys-0/apss-0/PCIE_Proc3_Power</id>
+	<property>
+	<id>INSTANCE_ID</id>
+	<value>PCIE_Proc3_Power</value>
+	</property>
+	<property>
+	<id>IPMI_SENSOR_ID</id>
+	<value>0</value>
 	</property>
 </globalSetting>
 <globalSetting>
@@ -1426,7 +1569,7 @@
 	</property>
 	<property>
 	<id>IPMI_SENSOR_ID</id>
-	<value></value>
+	<value>0</value>
 	</property>
 </globalSetting>
 <globalSetting>
@@ -1437,7 +1580,51 @@
 	</property>
 	<property>
 	<id>IPMI_SENSOR_ID</id>
-	<value></value>
+	<value>0</value>
+	</property>
+</globalSetting>
+<globalSetting>
+	<id>/sys-0/apss-0/Proc2_Power</id>
+	<property>
+	<id>INSTANCE_ID</id>
+	<value>Proc2_Power</value>
+	</property>
+	<property>
+	<id>IPMI_SENSOR_ID</id>
+	<value>0</value>
+	</property>
+</globalSetting>
+<globalSetting>
+	<id>/sys-0/apss-0/Proc3_Power</id>
+	<property>
+	<id>INSTANCE_ID</id>
+	<value>Proc3_Power</value>
+	</property>
+	<property>
+	<id>IPMI_SENSOR_ID</id>
+	<value>0</value>
+	</property>
+</globalSetting>
+<globalSetting>
+	<id>/sys-0/apss-0/Storage_Power_A</id>
+	<property>
+	<id>INSTANCE_ID</id>
+	<value>Storage_Power_A</value>
+	</property>
+	<property>
+	<id>IPMI_SENSOR_ID</id>
+	<value>0</value>
+	</property>
+</globalSetting>
+<globalSetting>
+	<id>/sys-0/apss-0/Storage_Power_B</id>
+	<property>
+	<id>INSTANCE_ID</id>
+	<value>Storage_Power_B</value>
+	</property>
+	<property>
+	<id>IPMI_SENSOR_ID</id>
+	<value>0</value>
 	</property>
 </globalSetting>
 <globalSetting>
@@ -1448,7 +1635,51 @@
 	</property>
 	<property>
 	<id>IPMI_SENSOR_ID</id>
-	<value></value>
+	<value>0xAB</value>
+	</property>
+</globalSetting>
+<globalSetting>
+	<id>/sys-0/boot_count_sensor</id>
+	<property>
+	<id>INSTANCE_ID</id>
+	<value>boot_count_sensor</value>
+	</property>
+	<property>
+	<id>IPMI_SENSOR_ID</id>
+	<value>0x50</value>
+	</property>
+</globalSetting>
+<globalSetting>
+	<id>/sys-0/dimm_freq_sensor</id>
+	<property>
+	<id>INSTANCE_ID</id>
+	<value>dimm_freq_sensor</value>
+	</property>
+	<property>
+	<id>IPMI_SENSOR_ID</id>
+	<value>0x4F</value>
+	</property>
+</globalSetting>
+<globalSetting>
+	<id>/sys-0/fw_boot_sensor</id>
+	<property>
+	<id>INSTANCE_ID</id>
+	<value>fw_boot_sensor</value>
+	</property>
+	<property>
+	<id>IPMI_SENSOR_ID</id>
+	<value>0x5</value>
+	</property>
+</globalSetting>
+<globalSetting>
+	<id>/sys-0/host_status_sensor</id>
+	<property>
+	<id>INSTANCE_ID</id>
+	<value>host_status_sensor</value>
+	</property>
+	<property>
+	<id>IPMI_SENSOR_ID</id>
+	<value>0x4</value>
 	</property>
 </globalSetting>
 <globalSetting>
@@ -2237,6 +2468,72 @@
 	<property>
 	<id>IO_CONFIG_SELECT</id>
 	<value></value>
+	</property>
+</globalSetting>
+<globalSetting>
+	<id>/sys-0/os_boot_sensor</id>
+	<property>
+	<id>INSTANCE_ID</id>
+	<value>os_boot_sensor</value>
+	</property>
+	<property>
+	<id>IPMI_SENSOR_ID</id>
+	<value>0x5A</value>
+	</property>
+</globalSetting>
+<globalSetting>
+	<id>/sys-0/pci_link_sensor</id>
+	<property>
+	<id>INSTANCE_ID</id>
+	<value>pci_link_sensor</value>
+	</property>
+	<property>
+	<id>IPMI_SENSOR_ID</id>
+	<value>0x5B</value>
+	</property>
+</globalSetting>
+<globalSetting>
+	<id>/sys-0/power_cap_sensor</id>
+	<property>
+	<id>INSTANCE_ID</id>
+	<value>power_cap_sensor</value>
+	</property>
+	<property>
+	<id>IPMI_SENSOR_ID</id>
+	<value>0</value>
+	</property>
+</globalSetting>
+<globalSetting>
+	<id>/sys-0/power_limit_sensor</id>
+	<property>
+	<id>INSTANCE_ID</id>
+	<value>power_limit_sensor</value>
+	</property>
+	<property>
+	<id>IPMI_SENSOR_ID</id>
+	<value>0x53</value>
+	</property>
+</globalSetting>
+<globalSetting>
+	<id>/sys-0/ps_derating_sensor</id>
+	<property>
+	<id>INSTANCE_ID</id>
+	<value>ps_derating_sensor</value>
+	</property>
+	<property>
+	<id>IPMI_SENSOR_ID</id>
+	<value>0x58</value>
+	</property>
+</globalSetting>
+<globalSetting>
+	<id>/sys-0/system_event_sensor</id>
+	<property>
+	<id>INSTANCE_ID</id>
+	<value>system_event_sensor</value>
+	</property>
+	<property>
+	<id>IPMI_SENSOR_ID</id>
+	<value>0x52</value>
 	</property>
 </globalSetting>
 <targetInstance>
@@ -10723,7 +11020,7 @@
 	<position>-1</position>
 	<attribute>
 		<id>ADC_CHANNEL_ASSIGNMENT</id>
-		<default></default>
+		<default>0</default>
 	</attribute>
 	<attribute>
 		<id>ADC_CHANNEL_GAIN</id>
@@ -10802,7 +11099,7 @@
 	<position>-1</position>
 	<attribute>
 		<id>ADC_CHANNEL_ASSIGNMENT</id>
-		<default></default>
+		<default>0</default>
 	</attribute>
 	<attribute>
 		<id>ADC_CHANNEL_GAIN</id>
@@ -10881,7 +11178,7 @@
 	<position>-1</position>
 	<attribute>
 		<id>ADC_CHANNEL_ASSIGNMENT</id>
-		<default></default>
+		<default>0</default>
 	</attribute>
 	<attribute>
 		<id>ADC_CHANNEL_GAIN</id>
@@ -10960,7 +11257,7 @@
 	<position>-1</position>
 	<attribute>
 		<id>ADC_CHANNEL_ASSIGNMENT</id>
-		<default></default>
+		<default>0</default>
 	</attribute>
 	<attribute>
 		<id>ADC_CHANNEL_GAIN</id>
@@ -11039,7 +11336,7 @@
 	<position>-1</position>
 	<attribute>
 		<id>ADC_CHANNEL_ASSIGNMENT</id>
-		<default></default>
+		<default>0</default>
 	</attribute>
 	<attribute>
 		<id>ADC_CHANNEL_GAIN</id>
@@ -11118,7 +11415,7 @@
 	<position>-1</position>
 	<attribute>
 		<id>ADC_CHANNEL_ASSIGNMENT</id>
-		<default></default>
+		<default>0</default>
 	</attribute>
 	<attribute>
 		<id>ADC_CHANNEL_GAIN</id>
@@ -11197,7 +11494,7 @@
 	<position>-1</position>
 	<attribute>
 		<id>ADC_CHANNEL_ASSIGNMENT</id>
-		<default></default>
+		<default>0</default>
 	</attribute>
 	<attribute>
 		<id>ADC_CHANNEL_GAIN</id>
@@ -11276,7 +11573,7 @@
 	<position>-1</position>
 	<attribute>
 		<id>ADC_CHANNEL_ASSIGNMENT</id>
-		<default></default>
+		<default>0</default>
 	</attribute>
 	<attribute>
 		<id>ADC_CHANNEL_GAIN</id>
@@ -11355,7 +11652,7 @@
 	<position>-1</position>
 	<attribute>
 		<id>ADC_CHANNEL_ASSIGNMENT</id>
-		<default></default>
+		<default>0</default>
 	</attribute>
 	<attribute>
 		<id>ADC_CHANNEL_GAIN</id>
