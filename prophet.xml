@@ -1349,7 +1349,7 @@
 	</property>
 	<property>
 	<id>IPMI_SENSOR_ID</id>
-	<value>0xAC</value>
+	<value>0xAF</value>
 	</property>
 </globalSetting>
 <globalSetting>
@@ -1360,7 +1360,7 @@
 	</property>
 	<property>
 	<id>IPMI_SENSOR_ID</id>
-	<value>0</value>
+	<value>0xA9</value>
 	</property>
 </globalSetting>
 <globalSetting>
@@ -1371,7 +1371,7 @@
 	</property>
 	<property>
 	<id>IPMI_SENSOR_ID</id>
-	<value>0</value>
+	<value>0xAB</value>
 	</property>
 </globalSetting>
 <globalSetting>
@@ -1382,7 +1382,7 @@
 	</property>
 	<property>
 	<id>IPMI_SENSOR_ID</id>
-	<value>0</value>
+	<value>0xAD</value>
 	</property>
 </globalSetting>
 <globalSetting>
@@ -1404,7 +1404,7 @@
 	</property>
 	<property>
 	<id>IPMI_SENSOR_ID</id>
-	<value>0</value>
+	<value>0xA7</value>
 	</property>
 </globalSetting>
 <globalSetting>
@@ -1415,7 +1415,7 @@
 	</property>
 	<property>
 	<id>IPMI_SENSOR_ID</id>
-	<value>0</value>
+	<value>0xA8</value>
 	</property>
 </globalSetting>
 <globalSetting>
@@ -1437,7 +1437,7 @@
 	</property>
 	<property>
 	<id>IPMI_SENSOR_ID</id>
-	<value>0</value>
+	<value>0xAC</value>
 	</property>
 </globalSetting>
 <globalSetting>
@@ -1448,7 +1448,7 @@
 	</property>
 	<property>
 	<id>IPMI_SENSOR_ID</id>
-	<value>0</value>
+	<value>0xA2</value>
 	</property>
 </globalSetting>
 <globalSetting>
@@ -1459,7 +1459,7 @@
 	</property>
 	<property>
 	<id>IPMI_SENSOR_ID</id>
-	<value>0</value>
+	<value>0xA3</value>
 	</property>
 </globalSetting>
 <globalSetting>
@@ -1470,7 +1470,7 @@
 	</property>
 	<property>
 	<id>IPMI_SENSOR_ID</id>
-	<value>0</value>
+	<value>0xA4</value>
 	</property>
 </globalSetting>
 <globalSetting>
@@ -1481,7 +1481,7 @@
 	</property>
 	<property>
 	<id>IPMI_SENSOR_ID</id>
-	<value>0</value>
+	<value>0xA1</value>
 	</property>
 </globalSetting>
 <globalSetting>
@@ -1525,7 +1525,7 @@
 	</property>
 	<property>
 	<id>IPMI_SENSOR_ID</id>
-	<value>0</value>
+	<value>0xA6</value>
 	</property>
 </globalSetting>
 <globalSetting>
@@ -1569,7 +1569,7 @@
 	</property>
 	<property>
 	<id>IPMI_SENSOR_ID</id>
-	<value>0</value>
+	<value>0xA5</value>
 	</property>
 </globalSetting>
 <globalSetting>
@@ -1613,7 +1613,7 @@
 	</property>
 	<property>
 	<id>IPMI_SENSOR_ID</id>
-	<value>0</value>
+	<value>0xAA</value>
 	</property>
 </globalSetting>
 <globalSetting>
@@ -1624,7 +1624,7 @@
 	</property>
 	<property>
 	<id>IPMI_SENSOR_ID</id>
-	<value>0</value>
+	<value>0xAB</value>
 	</property>
 </globalSetting>
 <globalSetting>
@@ -1635,7 +1635,7 @@
 	</property>
 	<property>
 	<id>IPMI_SENSOR_ID</id>
-	<value>0xAB</value>
+	<value>0xAE</value>
 	</property>
 </globalSetting>
 <globalSetting>
@@ -1668,7 +1668,7 @@
 	</property>
 	<property>
 	<id>IPMI_SENSOR_ID</id>
-	<value>0x5</value>
+	<value>0x05</value>
 	</property>
 </globalSetting>
 <globalSetting>
@@ -1699,6 +1699,17 @@
 	<property>
 	<id>IPMI_INSTANCE</id>
 	<value>0</value>
+	</property>
+</globalSetting>
+<globalSetting>
+	<id>/sys-0/node-0/apss_fault_sensor</id>
+	<property>
+	<id>INSTANCE_ID</id>
+	<value>apss_fault_sensor</value>
+	</property>
+	<property>
+	<id>IPMI_SENSOR_ID</id>
+	<value>0x57</value>
 	</property>
 </globalSetting>
 <globalSetting>
@@ -1747,7 +1758,7 @@
 	<id>/sys-0/node-0/motherboard-0/dimmconn-0/dimm-0</id>
 	<property>
 	<id>FRU_NAME</id>
-	<value></value>
+	<value>DIMM0</value>
 	</property>
 	<property>
 	<id>INSTANCE_ID</id>
@@ -1759,7 +1770,7 @@
 	</property>
 	<property>
 	<id>IPMI_INSTANCE</id>
-	<value></value>
+	<value>0</value>
 	</property>
 </globalSetting>
 <globalSetting>
@@ -1802,7 +1813,7 @@
 	<id>/sys-0/node-0/motherboard-0/dimmconn-1/dimm-1</id>
 	<property>
 	<id>FRU_NAME</id>
-	<value></value>
+	<value>DIMM1</value>
 	</property>
 	<property>
 	<id>INSTANCE_ID</id>
@@ -1814,7 +1825,7 @@
 	</property>
 	<property>
 	<id>IPMI_INSTANCE</id>
-	<value></value>
+	<value>1</value>
 	</property>
 </globalSetting>
 <globalSetting>
@@ -1857,7 +1868,7 @@
 	<id>/sys-0/node-0/motherboard-0/dimmconn-2/dimm-2</id>
 	<property>
 	<id>FRU_NAME</id>
-	<value></value>
+	<value>DIMM2</value>
 	</property>
 	<property>
 	<id>INSTANCE_ID</id>
@@ -1869,7 +1880,7 @@
 	</property>
 	<property>
 	<id>IPMI_INSTANCE</id>
-	<value></value>
+	<value>2</value>
 	</property>
 </globalSetting>
 <globalSetting>
@@ -1912,7 +1923,7 @@
 	<id>/sys-0/node-0/motherboard-0/dimmconn-3/dimm-3</id>
 	<property>
 	<id>FRU_NAME</id>
-	<value></value>
+	<value>DIMM3</value>
 	</property>
 	<property>
 	<id>INSTANCE_ID</id>
@@ -1924,7 +1935,7 @@
 	</property>
 	<property>
 	<id>IPMI_INSTANCE</id>
-	<value></value>
+	<value>3</value>
 	</property>
 </globalSetting>
 <globalSetting>
@@ -1967,7 +1978,7 @@
 	<id>/sys-0/node-0/motherboard-0/dimmconn-4/dimm-4</id>
 	<property>
 	<id>FRU_NAME</id>
-	<value></value>
+	<value>DIMM4</value>
 	</property>
 	<property>
 	<id>INSTANCE_ID</id>
@@ -1979,7 +1990,7 @@
 	</property>
 	<property>
 	<id>IPMI_INSTANCE</id>
-	<value></value>
+	<value>4</value>
 	</property>
 </globalSetting>
 <globalSetting>
@@ -2022,7 +2033,7 @@
 	<id>/sys-0/node-0/motherboard-0/dimmconn-5/dimm-5</id>
 	<property>
 	<id>FRU_NAME</id>
-	<value></value>
+	<value>DIMM5</value>
 	</property>
 	<property>
 	<id>INSTANCE_ID</id>
@@ -2034,7 +2045,7 @@
 	</property>
 	<property>
 	<id>IPMI_INSTANCE</id>
-	<value></value>
+	<value>5</value>
 	</property>
 </globalSetting>
 <globalSetting>
@@ -2076,8 +2087,16 @@
 <globalSetting>
 	<id>/sys-0/node-0/motherboard-0/dimmconn-6/dimm-6</id>
 	<property>
+	<id>FRU_NAME</id>
+	<value>DIMM6</value>
+	</property>
+	<property>
 	<id>IO_CONFIG_SELECT</id>
 	<value></value>
+	</property>
+	<property>
+	<id>IPMI_INSTANCE</id>
+	<value>6</value>
 	</property>
 </globalSetting>
 <globalSetting>
@@ -2119,8 +2138,16 @@
 <globalSetting>
 	<id>/sys-0/node-0/motherboard-0/dimmconn-7/dimm-7</id>
 	<property>
+	<id>FRU_NAME</id>
+	<value>DIMM7</value>
+	</property>
+	<property>
 	<id>IO_CONFIG_SELECT</id>
 	<value></value>
+	</property>
+	<property>
+	<id>IPMI_INSTANCE</id>
+	<value>7</value>
 	</property>
 </globalSetting>
 <globalSetting>
@@ -2170,7 +2197,7 @@
 	<id>/sys-0/node-0/motherboard-0/membuf-0</id>
 	<property>
 	<id>FRU_NAME</id>
-	<value></value>
+	<value>MEMBUF0</value>
 	</property>
 	<property>
 	<id>IO_CONFIG_SELECT</id>
@@ -2178,7 +2205,7 @@
 	</property>
 	<property>
 	<id>IPMI_INSTANCE</id>
-	<value></value>
+	<value>0</value>
 	</property>
 </globalSetting>
 <globalSetting>
@@ -2196,10 +2223,32 @@
 	</property>
 </globalSetting>
 <globalSetting>
+	<id>/sys-0/node-0/motherboard-0/membuf-0/membuf_func_sensor</id>
+	<property>
+	<id>INSTANCE_ID</id>
+	<value>membuf_func_sensor</value>
+	</property>
+	<property>
+	<id>IPMI_SENSOR_ID</id>
+	<value>0x4A</value>
+	</property>
+</globalSetting>
+<globalSetting>
+	<id>/sys-0/node-0/motherboard-0/membuf-0/membuf_temp_sensor</id>
+	<property>
+	<id>INSTANCE_ID</id>
+	<value>membuf_temp_sensor</value>
+	</property>
+	<property>
+	<id>IPMI_SENSOR_ID</id>
+	<value>0x65</value>
+	</property>
+</globalSetting>
+<globalSetting>
 	<id>/sys-0/node-0/motherboard-0/membuf-1</id>
 	<property>
 	<id>FRU_NAME</id>
-	<value></value>
+	<value>MEMBUF1</value>
 	</property>
 	<property>
 	<id>IO_CONFIG_SELECT</id>
@@ -2207,7 +2256,7 @@
 	</property>
 	<property>
 	<id>IPMI_INSTANCE</id>
-	<value></value>
+	<value>1</value>
 	</property>
 </globalSetting>
 <globalSetting>
@@ -2222,6 +2271,28 @@
 	<property>
 	<id>IO_CONFIG_SELECT</id>
 	<value></value>
+	</property>
+</globalSetting>
+<globalSetting>
+	<id>/sys-0/node-0/motherboard-0/membuf-1/membuf_func_sensor</id>
+	<property>
+	<id>INSTANCE_ID</id>
+	<value>membuf_func_sensor</value>
+	</property>
+	<property>
+	<id>IPMI_SENSOR_ID</id>
+	<value>0x4B</value>
+	</property>
+</globalSetting>
+<globalSetting>
+	<id>/sys-0/node-0/motherboard-0/membuf-1/membuf_temp_sensor</id>
+	<property>
+	<id>INSTANCE_ID</id>
+	<value>membuf_temp_sensor</value>
+	</property>
+	<property>
+	<id>IPMI_SENSOR_ID</id>
+	<value>0x66</value>
 	</property>
 </globalSetting>
 <globalSetting>
@@ -2249,7 +2320,7 @@
 	<id>/sys-0/node-0/motherboard-0/proc_socket-0/module-0/proc</id>
 	<property>
 	<id>FRU_NAME</id>
-	<value></value>
+	<value>CPU0</value>
 	</property>
 	<property>
 	<id>IO_CONFIG_SELECT</id>
@@ -2257,7 +2328,29 @@
 	</property>
 	<property>
 	<id>IPMI_INSTANCE</id>
-	<value></value>
+	<value>0</value>
+	</property>
+</globalSetting>
+<globalSetting>
+	<id>/sys-0/node-0/motherboard-0/proc_socket-0/module-0/proc/cpu_func_sensor</id>
+	<property>
+	<id>INSTANCE_ID</id>
+	<value>cpu_func_sensor</value>
+	</property>
+	<property>
+	<id>IPMI_SENSOR_ID</id>
+	<value>0x4E</value>
+	</property>
+</globalSetting>
+<globalSetting>
+	<id>/sys-0/node-0/motherboard-0/proc_socket-0/module-0/proc/cpu_temp_sensor</id>
+	<property>
+	<id>INSTANCE_ID</id>
+	<value>cpu_temp_sensor</value>
+	</property>
+	<property>
+	<id>IPMI_SENSOR_ID</id>
+	<value>0x64</value>
 	</property>
 </globalSetting>
 <globalSetting>
@@ -2270,8 +2363,49 @@
 <globalSetting>
 	<id>/sys-0/node-0/motherboard-0/proc_socket-0/module-0/proc/ex-1/core-0</id>
 	<property>
+	<id>FRU_NAME</id>
+	<value>CORE0</value>
+	</property>
+	<property>
 	<id>IO_CONFIG_SELECT</id>
 	<value></value>
+	</property>
+	<property>
+	<id>IPMI_INSTANCE</id>
+	<value>0</value>
+	</property>
+</globalSetting>
+<globalSetting>
+	<id>/sys-0/node-0/motherboard-0/proc_socket-0/module-0/proc/ex-1/core-0/cpucore_freq_sensor</id>
+	<property>
+	<id>INSTANCE_ID</id>
+	<value>cpucore_freq_sensor</value>
+	</property>
+	<property>
+	<id>IPMI_SENSOR_ID</id>
+	<value>0x95</value>
+	</property>
+</globalSetting>
+<globalSetting>
+	<id>/sys-0/node-0/motherboard-0/proc_socket-0/module-0/proc/ex-1/core-0/cpucore_func_sensor</id>
+	<property>
+	<id>INSTANCE_ID</id>
+	<value>cpucore_func_sensor</value>
+	</property>
+	<property>
+	<id>IPMI_SENSOR_ID</id>
+	<value>0x3E</value>
+	</property>
+</globalSetting>
+<globalSetting>
+	<id>/sys-0/node-0/motherboard-0/proc_socket-0/module-0/proc/ex-1/core-0/cpucore_temp_sensor</id>
+	<property>
+	<id>INSTANCE_ID</id>
+	<value>cpucore_temp_sensor</value>
+	</property>
+	<property>
+	<id>IPMI_SENSOR_ID</id>
+	<value>0x89</value>
 	</property>
 </globalSetting>
 <globalSetting>
@@ -2284,8 +2418,49 @@
 <globalSetting>
 	<id>/sys-0/node-0/motherboard-0/proc_socket-0/module-0/proc/ex-10/core-0</id>
 	<property>
+	<id>FRU_NAME</id>
+	<value>CORE7</value>
+	</property>
+	<property>
 	<id>IO_CONFIG_SELECT</id>
 	<value></value>
+	</property>
+	<property>
+	<id>IPMI_INSTANCE</id>
+	<value>7</value>
+	</property>
+</globalSetting>
+<globalSetting>
+	<id>/sys-0/node-0/motherboard-0/proc_socket-0/module-0/proc/ex-10/core-0/cpucore_freq_sensor</id>
+	<property>
+	<id>INSTANCE_ID</id>
+	<value>cpucore_freq_sensor</value>
+	</property>
+	<property>
+	<id>IPMI_SENSOR_ID</id>
+	<value>0x9C</value>
+	</property>
+</globalSetting>
+<globalSetting>
+	<id>/sys-0/node-0/motherboard-0/proc_socket-0/module-0/proc/ex-10/core-0/cpucore_func_sensor</id>
+	<property>
+	<id>INSTANCE_ID</id>
+	<value>cpucore_func_sensor</value>
+	</property>
+	<property>
+	<id>IPMI_SENSOR_ID</id>
+	<value>0x45</value>
+	</property>
+</globalSetting>
+<globalSetting>
+	<id>/sys-0/node-0/motherboard-0/proc_socket-0/module-0/proc/ex-10/core-0/cpucore_temp_sensor</id>
+	<property>
+	<id>INSTANCE_ID</id>
+	<value>cpucore_temp_sensor</value>
+	</property>
+	<property>
+	<id>IPMI_SENSOR_ID</id>
+	<value>0x90</value>
 	</property>
 </globalSetting>
 <globalSetting>
@@ -2298,8 +2473,49 @@
 <globalSetting>
 	<id>/sys-0/node-0/motherboard-0/proc_socket-0/module-0/proc/ex-11/core-0</id>
 	<property>
+	<id>FRU_NAME</id>
+	<value>CORE8</value>
+	</property>
+	<property>
 	<id>IO_CONFIG_SELECT</id>
 	<value></value>
+	</property>
+	<property>
+	<id>IPMI_INSTANCE</id>
+	<value>8</value>
+	</property>
+</globalSetting>
+<globalSetting>
+	<id>/sys-0/node-0/motherboard-0/proc_socket-0/module-0/proc/ex-11/core-0/cpucore_freq_sensor</id>
+	<property>
+	<id>INSTANCE_ID</id>
+	<value>cpucore_freq_sensor</value>
+	</property>
+	<property>
+	<id>IPMI_SENSOR_ID</id>
+	<value>0x9D</value>
+	</property>
+</globalSetting>
+<globalSetting>
+	<id>/sys-0/node-0/motherboard-0/proc_socket-0/module-0/proc/ex-11/core-0/cpucore_func_sensor</id>
+	<property>
+	<id>INSTANCE_ID</id>
+	<value>cpucore_func_sensor</value>
+	</property>
+	<property>
+	<id>IPMI_SENSOR_ID</id>
+	<value>0x46</value>
+	</property>
+</globalSetting>
+<globalSetting>
+	<id>/sys-0/node-0/motherboard-0/proc_socket-0/module-0/proc/ex-11/core-0/cpucore_temp_sensor</id>
+	<property>
+	<id>INSTANCE_ID</id>
+	<value>cpucore_temp_sensor</value>
+	</property>
+	<property>
+	<id>IPMI_SENSOR_ID</id>
+	<value>0x91</value>
 	</property>
 </globalSetting>
 <globalSetting>
@@ -2312,8 +2528,49 @@
 <globalSetting>
 	<id>/sys-0/node-0/motherboard-0/proc_socket-0/module-0/proc/ex-12/core-0</id>
 	<property>
+	<id>FRU_NAME</id>
+	<value>CORE9</value>
+	</property>
+	<property>
 	<id>IO_CONFIG_SELECT</id>
 	<value></value>
+	</property>
+	<property>
+	<id>IPMI_INSTANCE</id>
+	<value>9</value>
+	</property>
+</globalSetting>
+<globalSetting>
+	<id>/sys-0/node-0/motherboard-0/proc_socket-0/module-0/proc/ex-12/core-0/cpucore_freq_sensor</id>
+	<property>
+	<id>INSTANCE_ID</id>
+	<value>cpucore_freq_sensor</value>
+	</property>
+	<property>
+	<id>IPMI_SENSOR_ID</id>
+	<value>0x9E</value>
+	</property>
+</globalSetting>
+<globalSetting>
+	<id>/sys-0/node-0/motherboard-0/proc_socket-0/module-0/proc/ex-12/core-0/cpucore_func_sensor</id>
+	<property>
+	<id>INSTANCE_ID</id>
+	<value>cpucore_func_sensor</value>
+	</property>
+	<property>
+	<id>IPMI_SENSOR_ID</id>
+	<value>0x47</value>
+	</property>
+</globalSetting>
+<globalSetting>
+	<id>/sys-0/node-0/motherboard-0/proc_socket-0/module-0/proc/ex-12/core-0/cpucore_temp_sensor</id>
+	<property>
+	<id>INSTANCE_ID</id>
+	<value>cpucore_temp_sensor</value>
+	</property>
+	<property>
+	<id>IPMI_SENSOR_ID</id>
+	<value>0x92</value>
 	</property>
 </globalSetting>
 <globalSetting>
@@ -2326,8 +2583,49 @@
 <globalSetting>
 	<id>/sys-0/node-0/motherboard-0/proc_socket-0/module-0/proc/ex-13/core-0</id>
 	<property>
+	<id>FRU_NAME</id>
+	<value>CORE10</value>
+	</property>
+	<property>
 	<id>IO_CONFIG_SELECT</id>
 	<value></value>
+	</property>
+	<property>
+	<id>IPMI_INSTANCE</id>
+	<value>10</value>
+	</property>
+</globalSetting>
+<globalSetting>
+	<id>/sys-0/node-0/motherboard-0/proc_socket-0/module-0/proc/ex-13/core-0/cpucore_freq_sensor</id>
+	<property>
+	<id>INSTANCE_ID</id>
+	<value>cpucore_freq_sensor</value>
+	</property>
+	<property>
+	<id>IPMI_SENSOR_ID</id>
+	<value>0x9F</value>
+	</property>
+</globalSetting>
+<globalSetting>
+	<id>/sys-0/node-0/motherboard-0/proc_socket-0/module-0/proc/ex-13/core-0/cpucore_func_sensor</id>
+	<property>
+	<id>INSTANCE_ID</id>
+	<value>cpucore_func_sensor</value>
+	</property>
+	<property>
+	<id>IPMI_SENSOR_ID</id>
+	<value>0x48</value>
+	</property>
+</globalSetting>
+<globalSetting>
+	<id>/sys-0/node-0/motherboard-0/proc_socket-0/module-0/proc/ex-13/core-0/cpucore_temp_sensor</id>
+	<property>
+	<id>INSTANCE_ID</id>
+	<value>cpucore_temp_sensor</value>
+	</property>
+	<property>
+	<id>IPMI_SENSOR_ID</id>
+	<value>0x93</value>
 	</property>
 </globalSetting>
 <globalSetting>
@@ -2340,8 +2638,49 @@
 <globalSetting>
 	<id>/sys-0/node-0/motherboard-0/proc_socket-0/module-0/proc/ex-14/core-0</id>
 	<property>
+	<id>FRU_NAME</id>
+	<value>CORE11</value>
+	</property>
+	<property>
 	<id>IO_CONFIG_SELECT</id>
 	<value></value>
+	</property>
+	<property>
+	<id>IPMI_INSTANCE</id>
+	<value>11</value>
+	</property>
+</globalSetting>
+<globalSetting>
+	<id>/sys-0/node-0/motherboard-0/proc_socket-0/module-0/proc/ex-14/core-0/cpucore_freq_sensor</id>
+	<property>
+	<id>INSTANCE_ID</id>
+	<value>cpucore_freq_sensor</value>
+	</property>
+	<property>
+	<id>IPMI_SENSOR_ID</id>
+	<value>0xA0</value>
+	</property>
+</globalSetting>
+<globalSetting>
+	<id>/sys-0/node-0/motherboard-0/proc_socket-0/module-0/proc/ex-14/core-0/cpucore_func_sensor</id>
+	<property>
+	<id>INSTANCE_ID</id>
+	<value>cpucore_func_sensor</value>
+	</property>
+	<property>
+	<id>IPMI_SENSOR_ID</id>
+	<value>0x49</value>
+	</property>
+</globalSetting>
+<globalSetting>
+	<id>/sys-0/node-0/motherboard-0/proc_socket-0/module-0/proc/ex-14/core-0/cpucore_temp_sensor</id>
+	<property>
+	<id>INSTANCE_ID</id>
+	<value>cpucore_temp_sensor</value>
+	</property>
+	<property>
+	<id>IPMI_SENSOR_ID</id>
+	<value>0x94</value>
 	</property>
 </globalSetting>
 <globalSetting>
@@ -2354,8 +2693,49 @@
 <globalSetting>
 	<id>/sys-0/node-0/motherboard-0/proc_socket-0/module-0/proc/ex-2/core-0</id>
 	<property>
+	<id>FRU_NAME</id>
+	<value>CORE1</value>
+	</property>
+	<property>
 	<id>IO_CONFIG_SELECT</id>
 	<value></value>
+	</property>
+	<property>
+	<id>IPMI_INSTANCE</id>
+	<value>1</value>
+	</property>
+</globalSetting>
+<globalSetting>
+	<id>/sys-0/node-0/motherboard-0/proc_socket-0/module-0/proc/ex-2/core-0/cpucore_freq_sensor</id>
+	<property>
+	<id>INSTANCE_ID</id>
+	<value>cpucore_freq_sensor</value>
+	</property>
+	<property>
+	<id>IPMI_SENSOR_ID</id>
+	<value>0x96</value>
+	</property>
+</globalSetting>
+<globalSetting>
+	<id>/sys-0/node-0/motherboard-0/proc_socket-0/module-0/proc/ex-2/core-0/cpucore_func_sensor</id>
+	<property>
+	<id>INSTANCE_ID</id>
+	<value>cpucore_func_sensor</value>
+	</property>
+	<property>
+	<id>IPMI_SENSOR_ID</id>
+	<value>0x3F</value>
+	</property>
+</globalSetting>
+<globalSetting>
+	<id>/sys-0/node-0/motherboard-0/proc_socket-0/module-0/proc/ex-2/core-0/cpucore_temp_sensor</id>
+	<property>
+	<id>INSTANCE_ID</id>
+	<value>cpucore_temp_sensor</value>
+	</property>
+	<property>
+	<id>IPMI_SENSOR_ID</id>
+	<value>0x8A</value>
 	</property>
 </globalSetting>
 <globalSetting>
@@ -2368,8 +2748,49 @@
 <globalSetting>
 	<id>/sys-0/node-0/motherboard-0/proc_socket-0/module-0/proc/ex-3/core-0</id>
 	<property>
+	<id>FRU_NAME</id>
+	<value>CORE2</value>
+	</property>
+	<property>
 	<id>IO_CONFIG_SELECT</id>
 	<value></value>
+	</property>
+	<property>
+	<id>IPMI_INSTANCE</id>
+	<value>2</value>
+	</property>
+</globalSetting>
+<globalSetting>
+	<id>/sys-0/node-0/motherboard-0/proc_socket-0/module-0/proc/ex-3/core-0/cpucore_freq_sensor</id>
+	<property>
+	<id>INSTANCE_ID</id>
+	<value>cpucore_freq_sensor</value>
+	</property>
+	<property>
+	<id>IPMI_SENSOR_ID</id>
+	<value>0x97</value>
+	</property>
+</globalSetting>
+<globalSetting>
+	<id>/sys-0/node-0/motherboard-0/proc_socket-0/module-0/proc/ex-3/core-0/cpucore_func_sensor</id>
+	<property>
+	<id>INSTANCE_ID</id>
+	<value>cpucore_func_sensor</value>
+	</property>
+	<property>
+	<id>IPMI_SENSOR_ID</id>
+	<value>0x40</value>
+	</property>
+</globalSetting>
+<globalSetting>
+	<id>/sys-0/node-0/motherboard-0/proc_socket-0/module-0/proc/ex-3/core-0/cpucore_temp_sensor</id>
+	<property>
+	<id>INSTANCE_ID</id>
+	<value>cpucore_temp_sensor</value>
+	</property>
+	<property>
+	<id>IPMI_SENSOR_ID</id>
+	<value>0x8B</value>
 	</property>
 </globalSetting>
 <globalSetting>
@@ -2382,8 +2803,49 @@
 <globalSetting>
 	<id>/sys-0/node-0/motherboard-0/proc_socket-0/module-0/proc/ex-4/core-0</id>
 	<property>
+	<id>FRU_NAME</id>
+	<value>CORE3</value>
+	</property>
+	<property>
 	<id>IO_CONFIG_SELECT</id>
 	<value></value>
+	</property>
+	<property>
+	<id>IPMI_INSTANCE</id>
+	<value>3</value>
+	</property>
+</globalSetting>
+<globalSetting>
+	<id>/sys-0/node-0/motherboard-0/proc_socket-0/module-0/proc/ex-4/core-0/cpucore_freq_sensor</id>
+	<property>
+	<id>INSTANCE_ID</id>
+	<value>cpucore_freq_sensor</value>
+	</property>
+	<property>
+	<id>IPMI_SENSOR_ID</id>
+	<value>0x98</value>
+	</property>
+</globalSetting>
+<globalSetting>
+	<id>/sys-0/node-0/motherboard-0/proc_socket-0/module-0/proc/ex-4/core-0/cpucore_func_sensor</id>
+	<property>
+	<id>INSTANCE_ID</id>
+	<value>cpucore_func_sensor</value>
+	</property>
+	<property>
+	<id>IPMI_SENSOR_ID</id>
+	<value>0x41</value>
+	</property>
+</globalSetting>
+<globalSetting>
+	<id>/sys-0/node-0/motherboard-0/proc_socket-0/module-0/proc/ex-4/core-0/cpucore_temp_sensor</id>
+	<property>
+	<id>INSTANCE_ID</id>
+	<value>cpucore_temp_sensor</value>
+	</property>
+	<property>
+	<id>IPMI_SENSOR_ID</id>
+	<value>0x8C</value>
 	</property>
 </globalSetting>
 <globalSetting>
@@ -2396,8 +2858,49 @@
 <globalSetting>
 	<id>/sys-0/node-0/motherboard-0/proc_socket-0/module-0/proc/ex-5/core-0</id>
 	<property>
+	<id>FRU_NAME</id>
+	<value>CORE4</value>
+	</property>
+	<property>
 	<id>IO_CONFIG_SELECT</id>
 	<value></value>
+	</property>
+	<property>
+	<id>IPMI_INSTANCE</id>
+	<value>4</value>
+	</property>
+</globalSetting>
+<globalSetting>
+	<id>/sys-0/node-0/motherboard-0/proc_socket-0/module-0/proc/ex-5/core-0/cpucore_freq_sensor</id>
+	<property>
+	<id>INSTANCE_ID</id>
+	<value>cpucore_freq_sensor</value>
+	</property>
+	<property>
+	<id>IPMI_SENSOR_ID</id>
+	<value>0x99</value>
+	</property>
+</globalSetting>
+<globalSetting>
+	<id>/sys-0/node-0/motherboard-0/proc_socket-0/module-0/proc/ex-5/core-0/cpucore_func_sensor</id>
+	<property>
+	<id>INSTANCE_ID</id>
+	<value>cpucore_func_sensor</value>
+	</property>
+	<property>
+	<id>IPMI_SENSOR_ID</id>
+	<value>0x42</value>
+	</property>
+</globalSetting>
+<globalSetting>
+	<id>/sys-0/node-0/motherboard-0/proc_socket-0/module-0/proc/ex-5/core-0/cpucore_temp_sensor</id>
+	<property>
+	<id>INSTANCE_ID</id>
+	<value>cpucore_temp_sensor</value>
+	</property>
+	<property>
+	<id>IPMI_SENSOR_ID</id>
+	<value>0x8D</value>
 	</property>
 </globalSetting>
 <globalSetting>
@@ -2410,8 +2913,49 @@
 <globalSetting>
 	<id>/sys-0/node-0/motherboard-0/proc_socket-0/module-0/proc/ex-6/core-0</id>
 	<property>
+	<id>FRU_NAME</id>
+	<value>CORE5</value>
+	</property>
+	<property>
 	<id>IO_CONFIG_SELECT</id>
 	<value></value>
+	</property>
+	<property>
+	<id>IPMI_INSTANCE</id>
+	<value>5</value>
+	</property>
+</globalSetting>
+<globalSetting>
+	<id>/sys-0/node-0/motherboard-0/proc_socket-0/module-0/proc/ex-6/core-0/cpucore_freq_sensor</id>
+	<property>
+	<id>INSTANCE_ID</id>
+	<value>cpucore_freq_sensor</value>
+	</property>
+	<property>
+	<id>IPMI_SENSOR_ID</id>
+	<value>0x9A</value>
+	</property>
+</globalSetting>
+<globalSetting>
+	<id>/sys-0/node-0/motherboard-0/proc_socket-0/module-0/proc/ex-6/core-0/cpucore_func_sensor</id>
+	<property>
+	<id>INSTANCE_ID</id>
+	<value>cpucore_func_sensor</value>
+	</property>
+	<property>
+	<id>IPMI_SENSOR_ID</id>
+	<value>0x43</value>
+	</property>
+</globalSetting>
+<globalSetting>
+	<id>/sys-0/node-0/motherboard-0/proc_socket-0/module-0/proc/ex-6/core-0/cpucore_temp_sensor</id>
+	<property>
+	<id>INSTANCE_ID</id>
+	<value>cpucore_temp_sensor</value>
+	</property>
+	<property>
+	<id>IPMI_SENSOR_ID</id>
+	<value>0x8E</value>
 	</property>
 </globalSetting>
 <globalSetting>
@@ -2424,15 +2968,75 @@
 <globalSetting>
 	<id>/sys-0/node-0/motherboard-0/proc_socket-0/module-0/proc/ex-9/core-0</id>
 	<property>
+	<id>FRU_NAME</id>
+	<value>CORE6</value>
+	</property>
+	<property>
 	<id>IO_CONFIG_SELECT</id>
 	<value></value>
+	</property>
+	<property>
+	<id>IPMI_INSTANCE</id>
+	<value>6</value>
+	</property>
+</globalSetting>
+<globalSetting>
+	<id>/sys-0/node-0/motherboard-0/proc_socket-0/module-0/proc/ex-9/core-0/cpucore_freq_sensor</id>
+	<property>
+	<id>INSTANCE_ID</id>
+	<value>cpucore_freq_sensor</value>
+	</property>
+	<property>
+	<id>IPMI_SENSOR_ID</id>
+	<value>0x9B</value>
+	</property>
+</globalSetting>
+<globalSetting>
+	<id>/sys-0/node-0/motherboard-0/proc_socket-0/module-0/proc/ex-9/core-0/cpucore_func_sensor</id>
+	<property>
+	<id>INSTANCE_ID</id>
+	<value>cpucore_func_sensor</value>
+	</property>
+	<property>
+	<id>IPMI_SENSOR_ID</id>
+	<value>0x44</value>
+	</property>
+</globalSetting>
+<globalSetting>
+	<id>/sys-0/node-0/motherboard-0/proc_socket-0/module-0/proc/ex-9/core-0/cpucore_temp_sensor</id>
+	<property>
+	<id>INSTANCE_ID</id>
+	<value>cpucore_temp_sensor</value>
+	</property>
+	<property>
+	<id>IPMI_SENSOR_ID</id>
+	<value>0x8F</value>
 	</property>
 </globalSetting>
 <globalSetting>
 	<id>/sys-0/node-0/motherboard-0/proc_socket-0/module-0/proc/occ-0</id>
 	<property>
+	<id>FRU_NAME</id>
+	<value>OCC0</value>
+	</property>
+	<property>
 	<id>IO_CONFIG_SELECT</id>
 	<value></value>
+	</property>
+	<property>
+	<id>IPMI_INSTANCE</id>
+	<value>0</value>
+	</property>
+</globalSetting>
+<globalSetting>
+	<id>/sys-0/node-0/motherboard-0/proc_socket-0/module-0/proc/occ-0/occ_active_sensor</id>
+	<property>
+	<id>INSTANCE_ID</id>
+	<value>occ_active_sensor</value>
+	</property>
+	<property>
+	<id>IPMI_SENSOR_ID</id>
+	<value>0x08</value>
 	</property>
 </globalSetting>
 <globalSetting>
@@ -2471,6 +3075,50 @@
 	</property>
 </globalSetting>
 <globalSetting>
+	<id>/sys-0/node-0/motherboard_fault_sensor</id>
+	<property>
+	<id>INSTANCE_ID</id>
+	<value>motherboard_fault_sensor</value>
+	</property>
+	<property>
+	<id>IPMI_SENSOR_ID</id>
+	<value>0x51</value>
+	</property>
+</globalSetting>
+<globalSetting>
+	<id>/sys-0/node-0/pci_clk_sensor</id>
+	<property>
+	<id>INSTANCE_ID</id>
+	<value>pci_clk_sensor</value>
+	</property>
+	<property>
+	<id>IPMI_SENSOR_ID</id>
+	<value>0x55</value>
+	</property>
+</globalSetting>
+<globalSetting>
+	<id>/sys-0/node-0/ref_clk_sensor</id>
+	<property>
+	<id>INSTANCE_ID</id>
+	<value>ref_clk_sensor</value>
+	</property>
+	<property>
+	<id>IPMI_SENSOR_ID</id>
+	<value>0x54</value>
+	</property>
+</globalSetting>
+<globalSetting>
+	<id>/sys-0/node-0/tod_clk_sensor</id>
+	<property>
+	<id>INSTANCE_ID</id>
+	<value>tod_clk_sensor</value>
+	</property>
+	<property>
+	<id>IPMI_SENSOR_ID</id>
+	<value>0x56</value>
+	</property>
+</globalSetting>
+<globalSetting>
 	<id>/sys-0/os_boot_sensor</id>
 	<property>
 	<id>INSTANCE_ID</id>
@@ -2500,7 +3148,7 @@
 	</property>
 	<property>
 	<id>IPMI_SENSOR_ID</id>
-	<value>0</value>
+	<value></value>
 	</property>
 </globalSetting>
 <globalSetting>
@@ -4045,7 +4693,7 @@
 	</attribute>
 	<attribute>
 		<id>MSS_INTERLEAVE_ENABLE</id>
-		<default></default>
+		<default>0xE</default>
 	</attribute>
 	<attribute>
 		<id>PCI_BASE_ADDRS_32</id>
@@ -4123,19 +4771,19 @@
 	</attribute>
 	<attribute>
 		<id>PROC_R_DISTLOSS_VCS</id>
-		<default></default>
+		<default>0x190</default>
 	</attribute>
 	<attribute>
 		<id>PROC_R_DISTLOSS_VDD</id>
-		<default></default>
+		<default>0x032</default>
 	</attribute>
 	<attribute>
 		<id>PROC_R_LOADLINE_VCS</id>
-		<default></default>
+		<default>0x226</default>
 	</attribute>
 	<attribute>
 		<id>PROC_R_LOADLINE_VDD</id>
-		<default></default>
+		<default>0x226</default>
 	</attribute>
 	<attribute>
 		<id>PROC_VRM_VOFFSET_VCS</id>
@@ -7212,7 +7860,7 @@
 	</attribute>
 	<attribute>
 		<id>I2C_BUS_SPEED_ARRAY</id>
-		<default>400,400,0,0,0,0</default>
+		<default>100,100,0,0,0,0</default>
 	</attribute>
 	<attribute>
 		<id>IPMI_INSTANCE</id>
@@ -8168,7 +8816,7 @@
 	</attribute>
 	<attribute>
 		<id>I2C_BUS_SPEED_ARRAY</id>
-		<default>400,400,0,0,0,0</default>
+		<default>100,100,0,0,0,0</default>
 	</attribute>
 	<attribute>
 		<id>IPMI_INSTANCE</id>
@@ -11036,7 +11684,7 @@
 	</attribute>
 	<attribute>
 		<id>ADC_CHANNEL_OFFSET</id>
-		<default>0</default>
+		<default>-23</default>
 	</attribute>
 	<attribute>
 		<id>BUS_TYPE</id>
@@ -11099,7 +11747,7 @@
 	<position>-1</position>
 	<attribute>
 		<id>ADC_CHANNEL_ASSIGNMENT</id>
-		<default>0</default>
+		<default></default>
 	</attribute>
 	<attribute>
 		<id>ADC_CHANNEL_GAIN</id>
@@ -11178,7 +11826,7 @@
 	<position>-1</position>
 	<attribute>
 		<id>ADC_CHANNEL_ASSIGNMENT</id>
-		<default>0</default>
+		<default></default>
 	</attribute>
 	<attribute>
 		<id>ADC_CHANNEL_GAIN</id>
@@ -11257,7 +11905,7 @@
 	<position>-1</position>
 	<attribute>
 		<id>ADC_CHANNEL_ASSIGNMENT</id>
-		<default>0</default>
+		<default></default>
 	</attribute>
 	<attribute>
 		<id>ADC_CHANNEL_GAIN</id>
@@ -11336,7 +11984,7 @@
 	<position>-1</position>
 	<attribute>
 		<id>ADC_CHANNEL_ASSIGNMENT</id>
-		<default>0</default>
+		<default>4</default>
 	</attribute>
 	<attribute>
 		<id>ADC_CHANNEL_GAIN</id>
@@ -11352,7 +12000,7 @@
 	</attribute>
 	<attribute>
 		<id>ADC_CHANNEL_OFFSET</id>
-		<default>0</default>
+		<default>-33</default>
 	</attribute>
 	<attribute>
 		<id>BUS_TYPE</id>
@@ -11415,7 +12063,7 @@
 	<position>-1</position>
 	<attribute>
 		<id>ADC_CHANNEL_ASSIGNMENT</id>
-		<default>0</default>
+		<default></default>
 	</attribute>
 	<attribute>
 		<id>ADC_CHANNEL_GAIN</id>
@@ -11494,7 +12142,7 @@
 	<position>-1</position>
 	<attribute>
 		<id>ADC_CHANNEL_ASSIGNMENT</id>
-		<default>0</default>
+		<default></default>
 	</attribute>
 	<attribute>
 		<id>ADC_CHANNEL_GAIN</id>
@@ -11573,7 +12221,7 @@
 	<position>-1</position>
 	<attribute>
 		<id>ADC_CHANNEL_ASSIGNMENT</id>
-		<default>0</default>
+		<default></default>
 	</attribute>
 	<attribute>
 		<id>ADC_CHANNEL_GAIN</id>
@@ -11652,7 +12300,7 @@
 	<position>-1</position>
 	<attribute>
 		<id>ADC_CHANNEL_ASSIGNMENT</id>
-		<default>0</default>
+		<default>3</default>
 	</attribute>
 	<attribute>
 		<id>ADC_CHANNEL_GAIN</id>
@@ -11668,7 +12316,7 @@
 	</attribute>
 	<attribute>
 		<id>ADC_CHANNEL_OFFSET</id>
-		<default>0</default>
+		<default>-33</default>
 	</attribute>
 	<attribute>
 		<id>BUS_TYPE</id>
@@ -11968,7 +12616,7 @@
 	<position>-1</position>
 	<attribute>
 		<id>ADC_CHANNEL_ASSIGNMENT</id>
-		<default></default>
+		<default>11</default>
 	</attribute>
 	<attribute>
 		<id>ADC_CHANNEL_GAIN</id>
@@ -11984,7 +12632,7 @@
 	</attribute>
 	<attribute>
 		<id>ADC_CHANNEL_OFFSET</id>
-		<default>0</default>
+		<default>-23</default>
 	</attribute>
 	<attribute>
 		<id>BUS_TYPE</id>
@@ -12047,7 +12695,7 @@
 	<position>-1</position>
 	<attribute>
 		<id>ADC_CHANNEL_ASSIGNMENT</id>
-		<default></default>
+		<default>12</default>
 	</attribute>
 	<attribute>
 		<id>ADC_CHANNEL_GAIN</id>
@@ -12063,7 +12711,7 @@
 	</attribute>
 	<attribute>
 		<id>ADC_CHANNEL_OFFSET</id>
-		<default>0</default>
+		<default>-31</default>
 	</attribute>
 	<attribute>
 		<id>BUS_TYPE</id>
@@ -12205,7 +12853,7 @@
 	<position>-1</position>
 	<attribute>
 		<id>ADC_CHANNEL_ASSIGNMENT</id>
-		<default></default>
+		<default>6</default>
 	</attribute>
 	<attribute>
 		<id>ADC_CHANNEL_GAIN</id>
@@ -12221,7 +12869,7 @@
 	</attribute>
 	<attribute>
 		<id>ADC_CHANNEL_OFFSET</id>
-		<default>0</default>
+		<default>-34</default>
 	</attribute>
 	<attribute>
 		<id>BUS_TYPE</id>
@@ -12284,7 +12932,7 @@
 	<position>-1</position>
 	<attribute>
 		<id>ADC_CHANNEL_ASSIGNMENT</id>
-		<default></default>
+		<default>7</default>
 	</attribute>
 	<attribute>
 		<id>ADC_CHANNEL_GAIN</id>
@@ -12300,7 +12948,7 @@
 	</attribute>
 	<attribute>
 		<id>ADC_CHANNEL_OFFSET</id>
-		<default>0</default>
+		<default>-25</default>
 	</attribute>
 	<attribute>
 		<id>BUS_TYPE</id>
@@ -12363,7 +13011,7 @@
 	<position>-1</position>
 	<attribute>
 		<id>ADC_CHANNEL_ASSIGNMENT</id>
-		<default></default>
+		<default>5</default>
 	</attribute>
 	<attribute>
 		<id>ADC_CHANNEL_GAIN</id>
@@ -12379,7 +13027,7 @@
 	</attribute>
 	<attribute>
 		<id>ADC_CHANNEL_OFFSET</id>
-		<default>0</default>
+		<default>-34</default>
 	</attribute>
 	<attribute>
 		<id>BUS_TYPE</id>
@@ -12600,7 +13248,7 @@
 	<position>-1</position>
 	<attribute>
 		<id>ADC_CHANNEL_ASSIGNMENT</id>
-		<default></default>
+		<default>13</default>
 	</attribute>
 	<attribute>
 		<id>ADC_CHANNEL_GAIN</id>
@@ -12616,7 +13264,7 @@
 	</attribute>
 	<attribute>
 		<id>ADC_CHANNEL_OFFSET</id>
-		<default>0</default>
+		<default>-31</default>
 	</attribute>
 	<attribute>
 		<id>BUS_TYPE</id>
@@ -12679,7 +13327,7 @@
 	<position>-1</position>
 	<attribute>
 		<id>ADC_CHANNEL_ASSIGNMENT</id>
-		<default></default>
+		<default>1</default>
 	</attribute>
 	<attribute>
 		<id>ADC_CHANNEL_GAIN</id>
@@ -12695,7 +13343,7 @@
 	</attribute>
 	<attribute>
 		<id>ADC_CHANNEL_OFFSET</id>
-		<default>0</default>
+		<default>-33</default>
 	</attribute>
 	<attribute>
 		<id>BUS_TYPE</id>
@@ -12758,7 +13406,7 @@
 	<position>-1</position>
 	<attribute>
 		<id>ADC_CHANNEL_ASSIGNMENT</id>
-		<default></default>
+		<default>2</default>
 	</attribute>
 	<attribute>
 		<id>ADC_CHANNEL_GAIN</id>
@@ -12774,7 +13422,7 @@
 	</attribute>
 	<attribute>
 		<id>ADC_CHANNEL_OFFSET</id>
-		<default>0</default>
+		<default>-31</default>
 	</attribute>
 	<attribute>
 		<id>BUS_TYPE</id>
@@ -12837,7 +13485,7 @@
 	<position>-1</position>
 	<attribute>
 		<id>ADC_CHANNEL_ASSIGNMENT</id>
-		<default></default>
+		<default>14</default>
 	</attribute>
 	<attribute>
 		<id>ADC_CHANNEL_GAIN</id>
@@ -12853,7 +13501,7 @@
 	</attribute>
 	<attribute>
 		<id>ADC_CHANNEL_OFFSET</id>
-		<default>0</default>
+		<default>-31</default>
 	</attribute>
 	<attribute>
 		<id>BUS_TYPE</id>
@@ -12916,11 +13564,11 @@
 	<position>-1</position>
 	<attribute>
 		<id>ADC_CHANNEL_ASSIGNMENT</id>
-		<default>0</default>
+		<default>9</default>
 	</attribute>
 	<attribute>
 		<id>ADC_CHANNEL_GAIN</id>
-		<default>34500</default>
+		<default>6500</default>
 	</attribute>
 	<attribute>
 		<id>ADC_CHANNEL_GROUND</id>
@@ -12932,7 +13580,7 @@
 	</attribute>
 	<attribute>
 		<id>ADC_CHANNEL_OFFSET</id>
-		<default>0</default>
+		<default>-13</default>
 	</attribute>
 	<attribute>
 		<id>BUS_TYPE</id>
@@ -12995,19 +13643,19 @@
 	<position>-1</position>
 	<attribute>
 		<id>ADC_CHANNEL_ASSIGNMENT</id>
-		<default></default>
-	</attribute>
-	<attribute>
-		<id>ADC_CHANNEL_GAIN</id>
-		<default>34500</default>
-	</attribute>
-	<attribute>
-		<id>ADC_CHANNEL_GROUND</id>
 		<default>8</default>
 	</attribute>
 	<attribute>
+		<id>ADC_CHANNEL_GAIN</id>
+		<default>1000</default>
+	</attribute>
+	<attribute>
+		<id>ADC_CHANNEL_GROUND</id>
+		<default>0</default>
+	</attribute>
+	<attribute>
 		<id>ADC_CHANNEL_ID</id>
-		<default>21</default>
+		<default>-13</default>
 	</attribute>
 	<attribute>
 		<id>ADC_CHANNEL_OFFSET</id>
@@ -13074,11 +13722,11 @@
 	<position>-1</position>
 	<attribute>
 		<id>ADC_CHANNEL_ASSIGNMENT</id>
-		<default></default>
+		<default>10</default>
 	</attribute>
 	<attribute>
 		<id>ADC_CHANNEL_GAIN</id>
-		<default>34500</default>
+		<default>33500</default>
 	</attribute>
 	<attribute>
 		<id>ADC_CHANNEL_GROUND</id>
