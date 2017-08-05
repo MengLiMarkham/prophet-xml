@@ -3627,7 +3627,7 @@
 	</attribute>
 	<attribute>
 		<id>X_EREPAIR_THRESHOLD_MNFG</id>
-		<default>0</default>
+		<default>2000_MHZ_OR_2400_MHZ</default>
 	</attribute>
 </targetInstance>
 <targetInstance>
