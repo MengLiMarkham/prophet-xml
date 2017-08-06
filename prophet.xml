@@ -1371,7 +1371,7 @@
 	</property>
 	<property>
 	<id>IPMI_SENSOR_ID</id>
-	<value>0</value>
+	<value>0xAB</value>
 	</property>
 </globalSetting>
 <globalSetting>
@@ -3629,10 +3629,10 @@
 		<id>X_EREPAIR_THRESHOLD_MNFG</id>
 		<default>0</default>
 	</attribute>
-	<attribute>
-		<id>MRW_NEST_CAPABLE_FREQUENCIES_SYS</id>
-		<default>2000_MHZ_OR_2400_MHZ</default>
-	</attribute>
+       	<attribute>
+              <id>MRW_NEST_CAPABLE_FREQUENCIES_SYS</id>
+               <default>2000_MHZ_OR_2400_MHZ</default>
+      	</attribute>
 </targetInstance>
 <targetInstance>
 	<id>node-0</id>
@@ -13659,11 +13659,11 @@
 	</attribute>
 	<attribute>
 		<id>ADC_CHANNEL_ID</id>
-		<default>-13</default>
+		<default>21</default>
 	</attribute>
 	<attribute>
 		<id>ADC_CHANNEL_OFFSET</id>
-		<default>0</default>
+		<default>-13</default>
 	</attribute>
 	<attribute>
 		<id>BUS_TYPE</id>
