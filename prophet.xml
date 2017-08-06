@@ -1371,7 +1371,7 @@
 	</property>
 	<property>
 	<id>IPMI_SENSOR_ID</id>
-	<value>0xAB</value>
+	<value>0</value>
 	</property>
 </globalSetting>
 <globalSetting>
