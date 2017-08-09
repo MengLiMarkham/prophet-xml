@@ -1810,14 +1810,14 @@
 	</property>
 </globalSetting>
 <globalSetting>
-	<id>/sys-0/node-0/motherboard-0/dimmconn-1/dimm-1</id>
+	<id>/sys-0/node-0/motherboard-0/dimmconn-1/dimm-0</id>
 	<property>
 	<id>FRU_NAME</id>
 	<value>DIMM1</value>
 	</property>
 	<property>
 	<id>INSTANCE_ID</id>
-	<value>dimm-1</value>
+	<value>dimm-0</value>
 	</property>
 	<property>
 	<id>IO_CONFIG_SELECT</id>
@@ -1829,7 +1829,7 @@
 	</property>
 </globalSetting>
 <globalSetting>
-	<id>/sys-0/node-0/motherboard-0/dimmconn-1/dimm-1/dimm_func_sensor</id>
+	<id>/sys-0/node-0/motherboard-0/dimmconn-1/dimm-0/dimm_func_sensor</id>
 	<property>
 	<id>INSTANCE_ID</id>
 	<value>dimm_func_sensor</value>
@@ -1840,7 +1840,7 @@
 	</property>
 </globalSetting>
 <globalSetting>
-	<id>/sys-0/node-0/motherboard-0/dimmconn-1/dimm-1/dimm_temp_sensor</id>
+	<id>/sys-0/node-0/motherboard-0/dimmconn-1/dimm-0/dimm_temp_sensor</id>
 	<property>
 	<id>INSTANCE_ID</id>
 	<value>dimm_temp_sensor</value>
@@ -1851,7 +1851,7 @@
 	</property>
 </globalSetting>
 <globalSetting>
-	<id>/sys-0/node-0/motherboard-0/dimmconn-1/dimm-1/spd</id>
+	<id>/sys-0/node-0/motherboard-0/dimmconn-1/dimm-0/spd</id>
 	<property>
 	<id>IO_CONFIG_SELECT</id>
 	<value></value>
@@ -1865,14 +1865,14 @@
 	</property>
 </globalSetting>
 <globalSetting>
-	<id>/sys-0/node-0/motherboard-0/dimmconn-2/dimm-2</id>
+	<id>/sys-0/node-0/motherboard-0/dimmconn-2/dimm-0</id>
 	<property>
 	<id>FRU_NAME</id>
 	<value>DIMM2</value>
 	</property>
 	<property>
 	<id>INSTANCE_ID</id>
-	<value>dimm-2</value>
+	<value>dimm-0</value>
 	</property>
 	<property>
 	<id>IO_CONFIG_SELECT</id>
@@ -1884,7 +1884,7 @@
 	</property>
 </globalSetting>
 <globalSetting>
-	<id>/sys-0/node-0/motherboard-0/dimmconn-2/dimm-2/dimm_func_sensor</id>
+	<id>/sys-0/node-0/motherboard-0/dimmconn-2/dimm-0/dimm_func_sensor</id>
 	<property>
 	<id>INSTANCE_ID</id>
 	<value>dimm_func_sensor</value>
@@ -1895,7 +1895,7 @@
 	</property>
 </globalSetting>
 <globalSetting>
-	<id>/sys-0/node-0/motherboard-0/dimmconn-2/dimm-2/dimm_temp_sensor</id>
+	<id>/sys-0/node-0/motherboard-0/dimmconn-2/dimm-0/dimm_temp_sensor</id>
 	<property>
 	<id>INSTANCE_ID</id>
 	<value>dimm_temp_sensor</value>
@@ -1906,7 +1906,7 @@
 	</property>
 </globalSetting>
 <globalSetting>
-	<id>/sys-0/node-0/motherboard-0/dimmconn-2/dimm-2/spd</id>
+	<id>/sys-0/node-0/motherboard-0/dimmconn-2/dimm-0/spd</id>
 	<property>
 	<id>IO_CONFIG_SELECT</id>
 	<value></value>
@@ -1920,14 +1920,14 @@
 	</property>
 </globalSetting>
 <globalSetting>
-	<id>/sys-0/node-0/motherboard-0/dimmconn-3/dimm-3</id>
+	<id>/sys-0/node-0/motherboard-0/dimmconn-3/dimm-0</id>
 	<property>
 	<id>FRU_NAME</id>
 	<value>DIMM3</value>
 	</property>
 	<property>
 	<id>INSTANCE_ID</id>
-	<value>dimm-3</value>
+	<value>dimm-0</value>
 	</property>
 	<property>
 	<id>IO_CONFIG_SELECT</id>
@@ -1939,7 +1939,7 @@
 	</property>
 </globalSetting>
 <globalSetting>
-	<id>/sys-0/node-0/motherboard-0/dimmconn-3/dimm-3/dimm_func_sensor</id>
+	<id>/sys-0/node-0/motherboard-0/dimmconn-3/dimm-0/dimm_func_sensor</id>
 	<property>
 	<id>INSTANCE_ID</id>
 	<value>dimm_func_sensor</value>
@@ -1950,7 +1950,7 @@
 	</property>
 </globalSetting>
 <globalSetting>
-	<id>/sys-0/node-0/motherboard-0/dimmconn-3/dimm-3/dimm_temp_sensor</id>
+	<id>/sys-0/node-0/motherboard-0/dimmconn-3/dimm-0/dimm_temp_sensor</id>
 	<property>
 	<id>INSTANCE_ID</id>
 	<value>dimm_temp_sensor</value>
@@ -1961,7 +1961,7 @@
 	</property>
 </globalSetting>
 <globalSetting>
-	<id>/sys-0/node-0/motherboard-0/dimmconn-3/dimm-3/spd</id>
+	<id>/sys-0/node-0/motherboard-0/dimmconn-3/dimm-0/spd</id>
 	<property>
 	<id>IO_CONFIG_SELECT</id>
 	<value></value>
@@ -1975,14 +1975,14 @@
 	</property>
 </globalSetting>
 <globalSetting>
-	<id>/sys-0/node-0/motherboard-0/dimmconn-4/dimm-4</id>
+	<id>/sys-0/node-0/motherboard-0/dimmconn-4/dimm-0</id>
 	<property>
 	<id>FRU_NAME</id>
 	<value>DIMM4</value>
 	</property>
 	<property>
 	<id>INSTANCE_ID</id>
-	<value>dimm-4</value>
+	<value>dimm-0</value>
 	</property>
 	<property>
 	<id>IO_CONFIG_SELECT</id>
@@ -1994,7 +1994,7 @@
 	</property>
 </globalSetting>
 <globalSetting>
-	<id>/sys-0/node-0/motherboard-0/dimmconn-4/dimm-4/dimm_func_sensor</id>
+	<id>/sys-0/node-0/motherboard-0/dimmconn-4/dimm-0/dimm_func_sensor</id>
 	<property>
 	<id>INSTANCE_ID</id>
 	<value>dimm_func_sensor</value>
@@ -2005,7 +2005,7 @@
 	</property>
 </globalSetting>
 <globalSetting>
-	<id>/sys-0/node-0/motherboard-0/dimmconn-4/dimm-4/dimm_temp_sensor</id>
+	<id>/sys-0/node-0/motherboard-0/dimmconn-4/dimm-0/dimm_temp_sensor</id>
 	<property>
 	<id>INSTANCE_ID</id>
 	<value>dimm_temp_sensor</value>
@@ -2016,7 +2016,7 @@
 	</property>
 </globalSetting>
 <globalSetting>
-	<id>/sys-0/node-0/motherboard-0/dimmconn-4/dimm-4/spd</id>
+	<id>/sys-0/node-0/motherboard-0/dimmconn-4/dimm-0/spd</id>
 	<property>
 	<id>IO_CONFIG_SELECT</id>
 	<value></value>
@@ -2030,14 +2030,14 @@
 	</property>
 </globalSetting>
 <globalSetting>
-	<id>/sys-0/node-0/motherboard-0/dimmconn-5/dimm-5</id>
+	<id>/sys-0/node-0/motherboard-0/dimmconn-5/dimm-0</id>
 	<property>
 	<id>FRU_NAME</id>
 	<value>DIMM5</value>
 	</property>
 	<property>
 	<id>INSTANCE_ID</id>
-	<value>dimm-5</value>
+	<value>dimm-0</value>
 	</property>
 	<property>
 	<id>IO_CONFIG_SELECT</id>
@@ -2049,7 +2049,7 @@
 	</property>
 </globalSetting>
 <globalSetting>
-	<id>/sys-0/node-0/motherboard-0/dimmconn-5/dimm-5/dimm_func_sensor</id>
+	<id>/sys-0/node-0/motherboard-0/dimmconn-5/dimm-0/dimm_func_sensor</id>
 	<property>
 	<id>INSTANCE_ID</id>
 	<value>dimm_func_sensor</value>
@@ -2060,7 +2060,7 @@
 	</property>
 </globalSetting>
 <globalSetting>
-	<id>/sys-0/node-0/motherboard-0/dimmconn-5/dimm-5/dimm_temp_sensor</id>
+	<id>/sys-0/node-0/motherboard-0/dimmconn-5/dimm-0/dimm_temp_sensor</id>
 	<property>
 	<id>INSTANCE_ID</id>
 	<value>dimm_temp_sensor</value>
@@ -2071,7 +2071,7 @@
 	</property>
 </globalSetting>
 <globalSetting>
-	<id>/sys-0/node-0/motherboard-0/dimmconn-5/dimm-5/spd</id>
+	<id>/sys-0/node-0/motherboard-0/dimmconn-5/dimm-0/spd</id>
 	<property>
 	<id>IO_CONFIG_SELECT</id>
 	<value></value>
@@ -2085,7 +2085,7 @@
 	</property>
 </globalSetting>
 <globalSetting>
-	<id>/sys-0/node-0/motherboard-0/dimmconn-6/dimm-6</id>
+	<id>/sys-0/node-0/motherboard-0/dimmconn-6/dimm-0</id>
 	<property>
 	<id>FRU_NAME</id>
 	<value>DIMM6</value>
@@ -2100,7 +2100,7 @@
 	</property>
 </globalSetting>
 <globalSetting>
-	<id>/sys-0/node-0/motherboard-0/dimmconn-6/dimm-6/dimm_func_sensor</id>
+	<id>/sys-0/node-0/motherboard-0/dimmconn-6/dimm-0/dimm_func_sensor</id>
 	<property>
 	<id>INSTANCE_ID</id>
 	<value>dimm_func_sensor</value>
@@ -2111,7 +2111,7 @@
 	</property>
 </globalSetting>
 <globalSetting>
-	<id>/sys-0/node-0/motherboard-0/dimmconn-6/dimm-6/dimm_temp_sensor</id>
+	<id>/sys-0/node-0/motherboard-0/dimmconn-6/dimm-0/dimm_temp_sensor</id>
 	<property>
 	<id>INSTANCE_ID</id>
 	<value>dimm_temp_sensor</value>
@@ -2122,7 +2122,7 @@
 	</property>
 </globalSetting>
 <globalSetting>
-	<id>/sys-0/node-0/motherboard-0/dimmconn-6/dimm-6/spd</id>
+	<id>/sys-0/node-0/motherboard-0/dimmconn-6/dimm-0/spd</id>
 	<property>
 	<id>IO_CONFIG_SELECT</id>
 	<value></value>
@@ -2136,7 +2136,7 @@
 	</property>
 </globalSetting>
 <globalSetting>
-	<id>/sys-0/node-0/motherboard-0/dimmconn-7/dimm-7</id>
+	<id>/sys-0/node-0/motherboard-0/dimmconn-7/dimm-0</id>
 	<property>
 	<id>FRU_NAME</id>
 	<value>DIMM7</value>
@@ -2151,7 +2151,7 @@
 	</property>
 </globalSetting>
 <globalSetting>
-	<id>/sys-0/node-0/motherboard-0/dimmconn-7/dimm-7/dimm_func_sensor</id>
+	<id>/sys-0/node-0/motherboard-0/dimmconn-7/dimm-0/dimm_func_sensor</id>
 	<property>
 	<id>INSTANCE_ID</id>
 	<value>dimm_func_sensor</value>
@@ -2162,7 +2162,7 @@
 	</property>
 </globalSetting>
 <globalSetting>
-	<id>/sys-0/node-0/motherboard-0/dimmconn-7/dimm-7/dimm_temp_sensor</id>
+	<id>/sys-0/node-0/motherboard-0/dimmconn-7/dimm-0/dimm_temp_sensor</id>
 	<property>
 	<id>INSTANCE_ID</id>
 	<value>dimm_temp_sensor</value>
@@ -2173,7 +2173,7 @@
 	</property>
 </globalSetting>
 <globalSetting>
-	<id>/sys-0/node-0/motherboard-0/dimmconn-7/dimm-7/spd</id>
+	<id>/sys-0/node-0/motherboard-0/dimmconn-7/dimm-0/spd</id>
 	<property>
 	<id>IO_CONFIG_SELECT</id>
 	<value></value>
@@ -3765,12 +3765,12 @@
 		</bus_attribute>
 	</bus>
 	<bus>
-		<bus_id>membuf-0/mba-0/Port B:CS0 => dimmconn-1/dimm-1/ddr3</bus_id>
+		<bus_id>membuf-0/mba-0/Port B:CS0 => dimmconn-1/dimm-0/ddr3</bus_id>
 		<bus_type>DDR3</bus_type>
 		<cable>no</cable>
 		<source_path>membuf-0/mba-0/</source_path>
 		<source_target>Port B:CS0</source_target>
-		<dest_path>dimmconn-1/dimm-1/</dest_path>
+		<dest_path>dimmconn-1/dimm-0/</dest_path>
 		<dest_target>ddr3</dest_target>
 		<bus_attribute>
 			<id>CLASS</id>
@@ -3778,12 +3778,12 @@
 		</bus_attribute>
 	</bus>
 	<bus>
-		<bus_id>membuf-0/mba-1/Port C:CS0 => dimmconn-2/dimm-2/ddr3</bus_id>
+		<bus_id>membuf-0/mba-1/Port C:CS0 => dimmconn-2/dimm-0/ddr3</bus_id>
 		<bus_type>DDR3</bus_type>
 		<cable>no</cable>
 		<source_path>membuf-0/mba-1/</source_path>
 		<source_target>Port C:CS0</source_target>
-		<dest_path>dimmconn-2/dimm-2/</dest_path>
+		<dest_path>dimmconn-2/dimm-0/</dest_path>
 		<dest_target>ddr3</dest_target>
 		<bus_attribute>
 			<id>CLASS</id>
@@ -3791,12 +3791,12 @@
 		</bus_attribute>
 	</bus>
 	<bus>
-		<bus_id>membuf-0/mba-1/Port D:CS0 => dimmconn-3/dimm-3/ddr3</bus_id>
+		<bus_id>membuf-0/mba-1/Port D:CS0 => dimmconn-3/dimm-0/ddr3</bus_id>
 		<bus_type>DDR3</bus_type>
 		<cable>no</cable>
 		<source_path>membuf-0/mba-1/</source_path>
 		<source_target>Port D:CS0</source_target>
-		<dest_path>dimmconn-3/dimm-3/</dest_path>
+		<dest_path>dimmconn-3/dimm-0/</dest_path>
 		<dest_target>ddr3</dest_target>
 		<bus_attribute>
 			<id>CLASS</id>
@@ -3804,12 +3804,12 @@
 		</bus_attribute>
 	</bus>
 	<bus>
-		<bus_id>membuf-1/mba-0/Port A:CS0 => dimmconn-4/dimm-4/ddr3</bus_id>
+		<bus_id>membuf-1/mba-0/Port A:CS0 => dimmconn-4/dimm-0/ddr3</bus_id>
 		<bus_type>DDR3</bus_type>
 		<cable>no</cable>
 		<source_path>membuf-1/mba-0/</source_path>
 		<source_target>Port A:CS0</source_target>
-		<dest_path>dimmconn-4/dimm-4/</dest_path>
+		<dest_path>dimmconn-4/dimm-0/</dest_path>
 		<dest_target>ddr3</dest_target>
 		<bus_attribute>
 			<id>CLASS</id>
@@ -3817,12 +3817,12 @@
 		</bus_attribute>
 	</bus>
 	<bus>
-		<bus_id>membuf-1/mba-0/Port B:CS0 => dimmconn-5/dimm-5/ddr3</bus_id>
+		<bus_id>membuf-1/mba-0/Port B:CS0 => dimmconn-5/dimm-0/ddr3</bus_id>
 		<bus_type>DDR3</bus_type>
 		<cable>no</cable>
 		<source_path>membuf-1/mba-0/</source_path>
 		<source_target>Port B:CS0</source_target>
-		<dest_path>dimmconn-5/dimm-5/</dest_path>
+		<dest_path>dimmconn-5/dimm-0/</dest_path>
 		<dest_target>ddr3</dest_target>
 		<bus_attribute>
 			<id>CLASS</id>
@@ -3830,12 +3830,12 @@
 		</bus_attribute>
 	</bus>
 	<bus>
-		<bus_id>membuf-1/mba-1/Port C:CS0 => dimmconn-6/dimm-6/ddr3</bus_id>
+		<bus_id>membuf-1/mba-1/Port C:CS0 => dimmconn-6/dimm-0/ddr3</bus_id>
 		<bus_type>DDR3</bus_type>
 		<cable>no</cable>
 		<source_path>membuf-1/mba-1/</source_path>
 		<source_target>Port C:CS0</source_target>
-		<dest_path>dimmconn-6/dimm-6/</dest_path>
+		<dest_path>dimmconn-6/dimm-0/</dest_path>
 		<dest_target>ddr3</dest_target>
 		<bus_attribute>
 			<id>CLASS</id>
@@ -3843,12 +3843,12 @@
 		</bus_attribute>
 	</bus>
 	<bus>
-		<bus_id>membuf-1/mba-1/Port D:CS0 => dimmconn-7/dimm-7/ddr3</bus_id>
+		<bus_id>membuf-1/mba-1/Port D:CS0 => dimmconn-7/dimm-0/ddr3</bus_id>
 		<bus_type>DDR3</bus_type>
 		<cable>no</cable>
 		<source_path>membuf-1/mba-1/</source_path>
 		<source_target>Port D:CS0</source_target>
-		<dest_path>dimmconn-7/dimm-7/</dest_path>
+		<dest_path>dimmconn-7/dimm-0/</dest_path>
 		<dest_target>ddr3</dest_target>
 		<bus_attribute>
 			<id>CLASS</id>
@@ -3995,12 +3995,12 @@
 		</bus_attribute>
 	</bus>
 	<bus>
-		<bus_id>membuf-0/i2c-master => dimmconn-1/dimm-1/spd/i2c-slave</bus_id>
+		<bus_id>membuf-0/i2c-master => dimmconn-1/dimm-0/spd/i2c-slave</bus_id>
 		<bus_type>I2C</bus_type>
 		<cable>no</cable>
 		<source_path>membuf-0/</source_path>
 		<source_target>i2c-master</source_target>
-		<dest_path>dimmconn-1/dimm-1/spd/</dest_path>
+		<dest_path>dimmconn-1/dimm-0/spd/</dest_path>
 		<dest_target>i2c-slave</dest_target>
 		<bus_attribute>
 			<id>CLASS</id>
@@ -4016,12 +4016,12 @@
 		</bus_attribute>
 	</bus>
 	<bus>
-		<bus_id>membuf-0/i2c-master => dimmconn-2/dimm-2/spd/i2c-slave</bus_id>
+		<bus_id>membuf-0/i2c-master => dimmconn-2/dimm-0/spd/i2c-slave</bus_id>
 		<bus_type>I2C</bus_type>
 		<cable>no</cable>
 		<source_path>membuf-0/</source_path>
 		<source_target>i2c-master</source_target>
-		<dest_path>dimmconn-2/dimm-2/spd/</dest_path>
+		<dest_path>dimmconn-2/dimm-0/spd/</dest_path>
 		<dest_target>i2c-slave</dest_target>
 		<bus_attribute>
 			<id>CLASS</id>
@@ -4037,12 +4037,12 @@
 		</bus_attribute>
 	</bus>
 	<bus>
-		<bus_id>membuf-0/i2c-master => dimmconn-3/dimm-3/spd/i2c-slave</bus_id>
+		<bus_id>membuf-0/i2c-master => dimmconn-3/dimm-0/spd/i2c-slave</bus_id>
 		<bus_type>I2C</bus_type>
 		<cable>no</cable>
 		<source_path>membuf-0/</source_path>
 		<source_target>i2c-master</source_target>
-		<dest_path>dimmconn-3/dimm-3/spd/</dest_path>
+		<dest_path>dimmconn-3/dimm-0/spd/</dest_path>
 		<dest_target>i2c-slave</dest_target>
 		<bus_attribute>
 			<id>CLASS</id>
@@ -4058,12 +4058,12 @@
 		</bus_attribute>
 	</bus>
 	<bus>
-		<bus_id>membuf-1/i2c-master => dimmconn-4/dimm-4/spd/i2c-slave</bus_id>
+		<bus_id>membuf-1/i2c-master => dimmconn-4/dimm-0/spd/i2c-slave</bus_id>
 		<bus_type>I2C</bus_type>
 		<cable>no</cable>
 		<source_path>membuf-1/</source_path>
 		<source_target>i2c-master</source_target>
-		<dest_path>dimmconn-4/dimm-4/spd/</dest_path>
+		<dest_path>dimmconn-4/dimm-0/spd/</dest_path>
 		<dest_target>i2c-slave</dest_target>
 		<bus_attribute>
 			<id>CLASS</id>
@@ -4079,12 +4079,12 @@
 		</bus_attribute>
 	</bus>
 	<bus>
-		<bus_id>membuf-1/i2c-master => dimmconn-5/dimm-5/spd/i2c-slave</bus_id>
+		<bus_id>membuf-1/i2c-master => dimmconn-5/dimm-0/spd/i2c-slave</bus_id>
 		<bus_type>I2C</bus_type>
 		<cable>no</cable>
 		<source_path>membuf-1/</source_path>
 		<source_target>i2c-master</source_target>
-		<dest_path>dimmconn-5/dimm-5/spd/</dest_path>
+		<dest_path>dimmconn-5/dimm-0/spd/</dest_path>
 		<dest_target>i2c-slave</dest_target>
 		<bus_attribute>
 			<id>CLASS</id>
@@ -4100,12 +4100,12 @@
 		</bus_attribute>
 	</bus>
 	<bus>
-		<bus_id>membuf-1/i2c-master => dimmconn-6/dimm-6/spd/i2c-slave</bus_id>
+		<bus_id>membuf-1/i2c-master => dimmconn-6/dimm-0/spd/i2c-slave</bus_id>
 		<bus_type>I2C</bus_type>
 		<cable>no</cable>
 		<source_path>membuf-1/</source_path>
 		<source_target>i2c-master</source_target>
-		<dest_path>dimmconn-6/dimm-6/spd/</dest_path>
+		<dest_path>dimmconn-6/dimm-0/spd/</dest_path>
 		<dest_target>i2c-slave</dest_target>
 		<bus_attribute>
 			<id>CLASS</id>
@@ -4121,12 +4121,12 @@
 		</bus_attribute>
 	</bus>
 	<bus>
-		<bus_id>membuf-1/i2c-master => dimmconn-7/dimm-7/spd/i2c-slave</bus_id>
+		<bus_id>membuf-1/i2c-master => dimmconn-7/dimm-0/spd/i2c-slave</bus_id>
 		<bus_type>I2C</bus_type>
 		<cable>no</cable>
 		<source_path>membuf-1/</source_path>
 		<source_target>i2c-master</source_target>
-		<dest_path>dimmconn-7/dimm-7/spd/</dest_path>
+		<dest_path>dimmconn-7/dimm-0/spd/</dest_path>
 		<dest_target>i2c-slave</dest_target>
 		<bus_attribute>
 			<id>CLASS</id>
@@ -9185,7 +9185,7 @@
 	<library_target>false</library_target>
 	<instance_name>dimmconn</instance_name>
 	<position>1</position>
-	<child_id>dimm-1</child_id>
+	<child_id>dimm-0</child_id>
 	<attribute>
 		<id>CLASS</id>
 		<default>CONNECTOR</default>
@@ -9215,64 +9215,14 @@
 		<default>NA</default>
 	</attribute>
 </targetInstance>
-<targetInstance>
-	<id>dimm-1</id>
-	<type>lcard-dimm-jedec</type>
-	<library_target>true</library_target>
-	<instance_name>dimm</instance_name>
-	<position>1</position>
-	<child_id>ddr3</child_id>
-	<child_id>spd</child_id>
-	<hidden_child_id>dimm_temp_sensor</hidden_child_id>
-	<hidden_child_id>dimm_func_sensor</hidden_child_id>
-	<attribute>
-		<id>CLASS</id>
-		<default>CARD</default>
-	</attribute>
-	<attribute>
-		<id>FRU_ID</id>
-		<default></default>
-	</attribute>
-	<attribute>
-		<id>FRU_NAME</id>
-		<default></default>
-	</attribute>
-	<attribute>
-		<id>IPMI_INSTANCE</id>
-		<default></default>
-	</attribute>
-	<attribute>
-		<id>LOCATION_CODE</id>
-		<default></default>
-	</attribute>
-	<attribute>
-		<id>MODEL</id>
-		<default>JEDEC</default>
-	</attribute>
-	<attribute>
-		<id>MRW_TYPE</id>
-		<default>NA</default>
-	</attribute>
-	<attribute>
-		<id>POSITION</id>
-		<default>1</default>
-	</attribute>
-	<attribute>
-		<id>RESOURCE_IS_CRITICAL</id>
-		<default>0</default>
-	</attribute>
-	<attribute>
-		<id>TYPE</id>
-		<default>DIMM</default>
-	</attribute>
-</targetInstance>
+
 <targetInstance>
 	<id>dimmconn-2</id>
 	<type>connector-dimmconn-ddr3_jedec</type>
 	<library_target>false</library_target>
 	<instance_name>dimmconn</instance_name>
 	<position>2</position>
-	<child_id>dimm-2</child_id>
+	<child_id>dimm-0</child_id>
 	<attribute>
 		<id>CLASS</id>
 		<default>CONNECTOR</default>
@@ -9300,57 +9250,6 @@
 	<attribute>
 		<id>TYPE</id>
 		<default>NA</default>
-	</attribute>
-</targetInstance>
-<targetInstance>
-	<id>dimm-2</id>
-	<type>lcard-dimm-jedec</type>
-	<library_target>true</library_target>
-	<instance_name>dimm</instance_name>
-	<position>2</position>
-	<child_id>ddr3</child_id>
-	<child_id>spd</child_id>
-	<hidden_child_id>dimm_temp_sensor</hidden_child_id>
-	<hidden_child_id>dimm_func_sensor</hidden_child_id>
-	<attribute>
-		<id>CLASS</id>
-		<default>CARD</default>
-	</attribute>
-	<attribute>
-		<id>FRU_ID</id>
-		<default></default>
-	</attribute>
-	<attribute>
-		<id>FRU_NAME</id>
-		<default></default>
-	</attribute>
-	<attribute>
-		<id>IPMI_INSTANCE</id>
-		<default></default>
-	</attribute>
-	<attribute>
-		<id>LOCATION_CODE</id>
-		<default></default>
-	</attribute>
-	<attribute>
-		<id>MODEL</id>
-		<default>JEDEC</default>
-	</attribute>
-	<attribute>
-		<id>MRW_TYPE</id>
-		<default>NA</default>
-	</attribute>
-	<attribute>
-		<id>POSITION</id>
-		<default>2</default>
-	</attribute>
-	<attribute>
-		<id>RESOURCE_IS_CRITICAL</id>
-		<default>0</default>
-	</attribute>
-	<attribute>
-		<id>TYPE</id>
-		<default>DIMM</default>
 	</attribute>
 </targetInstance>
 <targetInstance>
@@ -9359,7 +9258,7 @@
 	<library_target>false</library_target>
 	<instance_name>dimmconn</instance_name>
 	<position>3</position>
-	<child_id>dimm-3</child_id>
+	<child_id>dimm-0</child_id>
 	<attribute>
 		<id>CLASS</id>
 		<default>CONNECTOR</default>
@@ -9387,57 +9286,6 @@
 	<attribute>
 		<id>TYPE</id>
 		<default>NA</default>
-	</attribute>
-</targetInstance>
-<targetInstance>
-	<id>dimm-3</id>
-	<type>lcard-dimm-jedec</type>
-	<library_target>true</library_target>
-	<instance_name>dimm</instance_name>
-	<position>3</position>
-	<child_id>ddr3</child_id>
-	<child_id>spd</child_id>
-	<hidden_child_id>dimm_temp_sensor</hidden_child_id>
-	<hidden_child_id>dimm_func_sensor</hidden_child_id>
-	<attribute>
-		<id>CLASS</id>
-		<default>CARD</default>
-	</attribute>
-	<attribute>
-		<id>FRU_ID</id>
-		<default></default>
-	</attribute>
-	<attribute>
-		<id>FRU_NAME</id>
-		<default></default>
-	</attribute>
-	<attribute>
-		<id>IPMI_INSTANCE</id>
-		<default></default>
-	</attribute>
-	<attribute>
-		<id>LOCATION_CODE</id>
-		<default></default>
-	</attribute>
-	<attribute>
-		<id>MODEL</id>
-		<default>JEDEC</default>
-	</attribute>
-	<attribute>
-		<id>MRW_TYPE</id>
-		<default>NA</default>
-	</attribute>
-	<attribute>
-		<id>POSITION</id>
-		<default>3</default>
-	</attribute>
-	<attribute>
-		<id>RESOURCE_IS_CRITICAL</id>
-		<default>0</default>
-	</attribute>
-	<attribute>
-		<id>TYPE</id>
-		<default>DIMM</default>
 	</attribute>
 </targetInstance>
 <targetInstance>
@@ -9446,7 +9294,7 @@
 	<library_target>false</library_target>
 	<instance_name>dimmconn</instance_name>
 	<position>4</position>
-	<child_id>dimm-4</child_id>
+	<child_id>dimm-0</child_id>
 	<attribute>
 		<id>CLASS</id>
 		<default>CONNECTOR</default>
@@ -9474,57 +9322,6 @@
 	<attribute>
 		<id>TYPE</id>
 		<default>NA</default>
-	</attribute>
-</targetInstance>
-<targetInstance>
-	<id>dimm-4</id>
-	<type>lcard-dimm-jedec</type>
-	<library_target>true</library_target>
-	<instance_name>dimm</instance_name>
-	<position>4</position>
-	<child_id>ddr3</child_id>
-	<child_id>spd</child_id>
-	<hidden_child_id>dimm_temp_sensor</hidden_child_id>
-	<hidden_child_id>dimm_func_sensor</hidden_child_id>
-	<attribute>
-		<id>CLASS</id>
-		<default>CARD</default>
-	</attribute>
-	<attribute>
-		<id>FRU_ID</id>
-		<default></default>
-	</attribute>
-	<attribute>
-		<id>FRU_NAME</id>
-		<default></default>
-	</attribute>
-	<attribute>
-		<id>IPMI_INSTANCE</id>
-		<default></default>
-	</attribute>
-	<attribute>
-		<id>LOCATION_CODE</id>
-		<default></default>
-	</attribute>
-	<attribute>
-		<id>MODEL</id>
-		<default>JEDEC</default>
-	</attribute>
-	<attribute>
-		<id>MRW_TYPE</id>
-		<default>NA</default>
-	</attribute>
-	<attribute>
-		<id>POSITION</id>
-		<default>4</default>
-	</attribute>
-	<attribute>
-		<id>RESOURCE_IS_CRITICAL</id>
-		<default>0</default>
-	</attribute>
-	<attribute>
-		<id>TYPE</id>
-		<default>DIMM</default>
 	</attribute>
 </targetInstance>
 <targetInstance>
@@ -9533,7 +9330,7 @@
 	<library_target>false</library_target>
 	<instance_name>dimmconn</instance_name>
 	<position>5</position>
-	<child_id>dimm-5</child_id>
+	<child_id>dimm-0</child_id>
 	<attribute>
 		<id>CLASS</id>
 		<default>CONNECTOR</default>
@@ -9561,57 +9358,6 @@
 	<attribute>
 		<id>TYPE</id>
 		<default>NA</default>
-	</attribute>
-</targetInstance>
-<targetInstance>
-	<id>dimm-5</id>
-	<type>lcard-dimm-jedec</type>
-	<library_target>true</library_target>
-	<instance_name>dimm</instance_name>
-	<position>5</position>
-	<child_id>ddr3</child_id>
-	<child_id>spd</child_id>
-	<hidden_child_id>dimm_temp_sensor</hidden_child_id>
-	<hidden_child_id>dimm_func_sensor</hidden_child_id>
-	<attribute>
-		<id>CLASS</id>
-		<default>CARD</default>
-	</attribute>
-	<attribute>
-		<id>FRU_ID</id>
-		<default></default>
-	</attribute>
-	<attribute>
-		<id>FRU_NAME</id>
-		<default></default>
-	</attribute>
-	<attribute>
-		<id>IPMI_INSTANCE</id>
-		<default></default>
-	</attribute>
-	<attribute>
-		<id>LOCATION_CODE</id>
-		<default></default>
-	</attribute>
-	<attribute>
-		<id>MODEL</id>
-		<default>JEDEC</default>
-	</attribute>
-	<attribute>
-		<id>MRW_TYPE</id>
-		<default>NA</default>
-	</attribute>
-	<attribute>
-		<id>POSITION</id>
-		<default>5</default>
-	</attribute>
-	<attribute>
-		<id>RESOURCE_IS_CRITICAL</id>
-		<default>0</default>
-	</attribute>
-	<attribute>
-		<id>TYPE</id>
-		<default>DIMM</default>
 	</attribute>
 </targetInstance>
 <targetInstance>
@@ -9620,7 +9366,7 @@
 	<library_target>false</library_target>
 	<instance_name>dimmconn</instance_name>
 	<position>6</position>
-	<child_id>dimm-6</child_id>
+	<child_id>dimm-0</child_id>
 	<attribute>
 		<id>CLASS</id>
 		<default>CONNECTOR</default>
@@ -9648,57 +9394,6 @@
 	<attribute>
 		<id>TYPE</id>
 		<default>NA</default>
-	</attribute>
-</targetInstance>
-<targetInstance>
-	<id>dimm-6</id>
-	<type>lcard-dimm-jedec</type>
-	<library_target>true</library_target>
-	<instance_name>dimm</instance_name>
-	<position>6</position>
-	<child_id>ddr3</child_id>
-	<child_id>spd</child_id>
-	<hidden_child_id>dimm_temp_sensor</hidden_child_id>
-	<hidden_child_id>dimm_func_sensor</hidden_child_id>
-	<attribute>
-		<id>CLASS</id>
-		<default>CARD</default>
-	</attribute>
-	<attribute>
-		<id>FRU_ID</id>
-		<default></default>
-	</attribute>
-	<attribute>
-		<id>FRU_NAME</id>
-		<default></default>
-	</attribute>
-	<attribute>
-		<id>IPMI_INSTANCE</id>
-		<default></default>
-	</attribute>
-	<attribute>
-		<id>LOCATION_CODE</id>
-		<default></default>
-	</attribute>
-	<attribute>
-		<id>MODEL</id>
-		<default>JEDEC</default>
-	</attribute>
-	<attribute>
-		<id>MRW_TYPE</id>
-		<default>NA</default>
-	</attribute>
-	<attribute>
-		<id>POSITION</id>
-		<default>6</default>
-	</attribute>
-	<attribute>
-		<id>RESOURCE_IS_CRITICAL</id>
-		<default>0</default>
-	</attribute>
-	<attribute>
-		<id>TYPE</id>
-		<default>DIMM</default>
 	</attribute>
 </targetInstance>
 <targetInstance>
@@ -9707,7 +9402,7 @@
 	<library_target>false</library_target>
 	<instance_name>dimmconn</instance_name>
 	<position>7</position>
-	<child_id>dimm-7</child_id>
+	<child_id>dimm-0</child_id>
 	<attribute>
 		<id>CLASS</id>
 		<default>CONNECTOR</default>
@@ -9735,57 +9430,6 @@
 	<attribute>
 		<id>TYPE</id>
 		<default>NA</default>
-	</attribute>
-</targetInstance>
-<targetInstance>
-	<id>dimm-7</id>
-	<type>lcard-dimm-jedec</type>
-	<library_target>true</library_target>
-	<instance_name>dimm</instance_name>
-	<position>7</position>
-	<child_id>ddr3</child_id>
-	<child_id>spd</child_id>
-	<hidden_child_id>dimm_temp_sensor</hidden_child_id>
-	<hidden_child_id>dimm_func_sensor</hidden_child_id>
-	<attribute>
-		<id>CLASS</id>
-		<default>CARD</default>
-	</attribute>
-	<attribute>
-		<id>FRU_ID</id>
-		<default></default>
-	</attribute>
-	<attribute>
-		<id>FRU_NAME</id>
-		<default></default>
-	</attribute>
-	<attribute>
-		<id>IPMI_INSTANCE</id>
-		<default></default>
-	</attribute>
-	<attribute>
-		<id>LOCATION_CODE</id>
-		<default></default>
-	</attribute>
-	<attribute>
-		<id>MODEL</id>
-		<default>JEDEC</default>
-	</attribute>
-	<attribute>
-		<id>MRW_TYPE</id>
-		<default>NA</default>
-	</attribute>
-	<attribute>
-		<id>POSITION</id>
-		<default>7</default>
-	</attribute>
-	<attribute>
-		<id>RESOURCE_IS_CRITICAL</id>
-		<default>0</default>
-	</attribute>
-	<attribute>
-		<id>TYPE</id>
-		<default>DIMM</default>
 	</attribute>
 </targetInstance>
 <targetInstance>
