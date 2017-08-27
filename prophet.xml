@@ -3439,7 +3439,7 @@
 	</attribute>
 	<attribute>
 		<id>NEST_FREQ_MHZ</id>
-		<default>2000</default>
+		<default>2400</default>
 	</attribute>
 	<attribute>
 		<id>NOMINAL_FREQ_MHZ</id>
