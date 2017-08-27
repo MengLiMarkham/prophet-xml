@@ -3371,11 +3371,11 @@
 	</attribute>
 	<attribute>
 		<id>MRW_CDIMM_MASTER_I2C_TEMP_SENSOR_ENABLE</id>
-		<default>0</default>
+		<default></default>
 	</attribute>
 	<attribute>
 		<id>MRW_CDIMM_SPARE_I2C_TEMP_SENSOR_ENABLE</id>
-		<default>0</default>
+		<default></default>
 	</attribute>
 	<attribute>
 		<id>MRW_DIMM_POWER_CURVE_PERCENT_UPLIFT</id>
@@ -3479,23 +3479,23 @@
 	</attribute>
 	<attribute>
 		<id>OPEN_POWER_MIN_POWER_CAP_WATTS</id>
-		<default>1100</default>
+		<default>900</default>
 	</attribute>
 	<attribute>
 		<id>OPEN_POWER_N_BULK_POWER_LIMIT_WATTS</id>
-		<default>1200</default>
+		<default>1000</default>
 	</attribute>
 	<attribute>
 		<id>OPEN_POWER_N_MAX_MEM_POWER_WATTS</id>
-		<default>500</default>
+		<default>427</default>
 	</attribute>
 	<attribute>
 		<id>OPEN_POWER_N_PLUS_ONE_BULK_POWER_LIMIT_WATTS</id>
-		<default>1650</default>
+		<default>1000</default>
 	</attribute>
 	<attribute>
 		<id>OPEN_POWER_N_PLUS_ONE_MAX_MEM_POWER_WATTS</id>
-		<default>500</default>
+		<default>427</default>
 	</attribute>
 	<attribute>
 		<id>OPEN_POWER_PROC_DVFS_TEMP_DEG_C</id>
