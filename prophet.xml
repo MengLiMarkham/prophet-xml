@@ -3204,7 +3204,7 @@
 	<hidden_child_id>dimm_freq_sensor</hidden_child_id>
 	<attribute>
 		<id>ALL_MCS_IN_INTERLEAVING_GROUP</id>
-		<default>1</default>
+		<default>0</default>
 	</attribute>
 	<attribute>
 		<id>APSS_GPIO_PORT_MODES</id>
@@ -4665,7 +4665,7 @@
 	</attribute>
 	<attribute>
 		<id>I2C_BUS_SPEED_ARRAY</id>
-		<default>1000,1000,0,0,0,0</default>
+		<default>100,100,0,0,0,0</default>
 	</attribute>
 	<attribute>
 		<id>IBSCOM_PROC_BASE_ADDR</id>
