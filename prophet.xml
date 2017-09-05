@@ -4665,7 +4665,7 @@
 	</attribute>
 	<attribute>
 		<id>I2C_BUS_SPEED_ARRAY</id>
-		<default>100,100,0,0,0,0</default>
+		<default>1000,1000,0,0,0,0</default>
 	</attribute>
 	<attribute>
 		<id>IBSCOM_PROC_BASE_ADDR</id>
@@ -7864,7 +7864,7 @@
 	</attribute>
 	<attribute>
 		<id>I2C_BUS_SPEED_ARRAY</id>
-		<default>100,100,0,0,0,0</default>
+		<default>400,400,0,0,0,0</default>
 	</attribute>
 	<attribute>
 		<id>IPMI_INSTANCE</id>
@@ -8820,7 +8820,7 @@
 	</attribute>
 	<attribute>
 		<id>I2C_BUS_SPEED_ARRAY</id>
-		<default>100,100,0,0,0,0</default>
+		<default>400,400,0,0,0,0</default>
 	</attribute>
 	<attribute>
 		<id>IPMI_INSTANCE</id>
