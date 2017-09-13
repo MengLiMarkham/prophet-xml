@@ -1360,7 +1360,7 @@
 	</property>
 	<property>
 	<id>IPMI_SENSOR_ID</id>
-	<value>0xA9</value>
+	<value>0</value>
 	</property>
 </globalSetting>
 <globalSetting>
@@ -1382,7 +1382,7 @@
 	</property>
 	<property>
 	<id>IPMI_SENSOR_ID</id>
-	<value>0xAD</value>
+	<value>0</value>
 	</property>
 </globalSetting>
 <globalSetting>
@@ -1404,7 +1404,7 @@
 	</property>
 	<property>
 	<id>IPMI_SENSOR_ID</id>
-	<value>0xA7</value>
+	<value>0</value>
 	</property>
 </globalSetting>
 <globalSetting>
@@ -1415,7 +1415,7 @@
 	</property>
 	<property>
 	<id>IPMI_SENSOR_ID</id>
-	<value>0xA8</value>
+	<value>0</value>
 	</property>
 </globalSetting>
 <globalSetting>
@@ -1437,7 +1437,7 @@
 	</property>
 	<property>
 	<id>IPMI_SENSOR_ID</id>
-	<value>0xAC</value>
+	<value>0</value>
 	</property>
 </globalSetting>
 <globalSetting>
@@ -1448,7 +1448,7 @@
 	</property>
 	<property>
 	<id>IPMI_SENSOR_ID</id>
-	<value>0xA2</value>
+	<value>0</value>
 	</property>
 </globalSetting>
 <globalSetting>
@@ -1459,7 +1459,7 @@
 	</property>
 	<property>
 	<id>IPMI_SENSOR_ID</id>
-	<value>0xA3</value>
+	<value>0</value>
 	</property>
 </globalSetting>
 <globalSetting>
@@ -1470,7 +1470,7 @@
 	</property>
 	<property>
 	<id>IPMI_SENSOR_ID</id>
-	<value>0xA4</value>
+	<value>0</value>
 	</property>
 </globalSetting>
 <globalSetting>
@@ -1481,7 +1481,7 @@
 	</property>
 	<property>
 	<id>IPMI_SENSOR_ID</id>
-	<value>0xA1</value>
+	<value>0</value>
 	</property>
 </globalSetting>
 <globalSetting>
@@ -1525,7 +1525,7 @@
 	</property>
 	<property>
 	<id>IPMI_SENSOR_ID</id>
-	<value>0xA6</value>
+	<value>0</value>
 	</property>
 </globalSetting>
 <globalSetting>
@@ -1569,7 +1569,7 @@
 	</property>
 	<property>
 	<id>IPMI_SENSOR_ID</id>
-	<value>0xA5</value>
+	<value>0</value>
 	</property>
 </globalSetting>
 <globalSetting>
@@ -1613,7 +1613,7 @@
 	</property>
 	<property>
 	<id>IPMI_SENSOR_ID</id>
-	<value>0xAA</value>
+	<value>0</value>
 	</property>
 </globalSetting>
 <globalSetting>
@@ -1624,7 +1624,7 @@
 	</property>
 	<property>
 	<id>IPMI_SENSOR_ID</id>
-	<value>0xAB</value>
+	<value>0</value>
 	</property>
 </globalSetting>
 <globalSetting>
@@ -1792,7 +1792,7 @@
 	</property>
 	<property>
 	<id>IPMI_SENSOR_ID</id>
-	<value>0x69</value>
+	<value>0</value>
 	</property>
 </globalSetting>
 <globalSetting>
@@ -1847,7 +1847,7 @@
 	</property>
 	<property>
 	<id>IPMI_SENSOR_ID</id>
-	<value>0x6A</value>
+	<value>0</value>
 	</property>
 </globalSetting>
 <globalSetting>
@@ -1902,7 +1902,7 @@
 	</property>
 	<property>
 	<id>IPMI_SENSOR_ID</id>
-	<value>0x6B</value>
+	<value>0</value>
 	</property>
 </globalSetting>
 <globalSetting>
@@ -1957,7 +1957,7 @@
 	</property>
 	<property>
 	<id>IPMI_SENSOR_ID</id>
-	<value>0x6C</value>
+	<value>0</value>
 	</property>
 </globalSetting>
 <globalSetting>
@@ -2012,7 +2012,7 @@
 	</property>
 	<property>
 	<id>IPMI_SENSOR_ID</id>
-	<value>0x6D</value>
+	<value>0</value>
 	</property>
 </globalSetting>
 <globalSetting>
@@ -2067,7 +2067,7 @@
 	</property>
 	<property>
 	<id>IPMI_SENSOR_ID</id>
-	<value>0x6E</value>
+	<value>0</value>
 	</property>
 </globalSetting>
 <globalSetting>
@@ -2118,7 +2118,7 @@
 	</property>
 	<property>
 	<id>IPMI_SENSOR_ID</id>
-	<value>0x6F</value>
+	<value>0</value>
 	</property>
 </globalSetting>
 <globalSetting>
@@ -2169,7 +2169,7 @@
 	</property>
 	<property>
 	<id>IPMI_SENSOR_ID</id>
-	<value>0x70</value>
+	<value>0</value>
 	</property>
 </globalSetting>
 <globalSetting>
@@ -13211,7 +13211,7 @@
 	<position>-1</position>
 	<attribute>
 		<id>ADC_CHANNEL_ASSIGNMENT</id>
-		<default></default>
+		<default>0</default>
 	</attribute>
 	<attribute>
 		<id>ADC_CHANNEL_GAIN</id>
