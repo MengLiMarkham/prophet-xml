@@ -13211,11 +13211,11 @@
 	<position>-1</position>
 	<attribute>
 		<id>ADC_CHANNEL_ASSIGNMENT</id>
-		<default>9</default>
+		<default>0</default>
 	</attribute>
 	<attribute>
 		<id>ADC_CHANNEL_GAIN</id>
-		<default>6500</default>
+		<default>6495</default>
 	</attribute>
 	<attribute>
 		<id>ADC_CHANNEL_GROUND</id>
@@ -13227,7 +13227,7 @@
 	</attribute>
 	<attribute>
 		<id>ADC_CHANNEL_OFFSET</id>
-		<default>-13</default>
+		<default>7</default>
 	</attribute>
 	<attribute>
 		<id>BUS_TYPE</id>
