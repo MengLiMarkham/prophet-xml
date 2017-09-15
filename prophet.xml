@@ -3371,11 +3371,11 @@
 	</attribute>
 	<attribute>
 		<id>MRW_CDIMM_MASTER_I2C_TEMP_SENSOR_ENABLE</id>
-		<default>0</default>
+		<default>ENUM_ATTR_CDIMM_MASTER_I2C_TEMP_SENSOR_ENABLE_OFF</default>
 	</attribute>
 	<attribute>
 		<id>MRW_CDIMM_SPARE_I2C_TEMP_SENSOR_ENABLE</id>
-		<default>0</default>
+		<default>ENUM_ATTR_CDIMM_SPARE_I2C_TEMP_SENSOR_ENABLE_OFF</default>
 	</attribute>
 	<attribute>
 		<id>MRW_DIMM_POWER_CURVE_PERCENT_UPLIFT</id>
